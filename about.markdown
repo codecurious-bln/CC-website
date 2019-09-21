@@ -44,7 +44,7 @@ We are always looking for people to support Rails Girls by either coaching or sp
 
 ## Team
 
-[![](http://railsgirlsberlin.de/wp-content/uploads/2016/08/ferdous.jpg)](https://twitter.com/ferbsx)
+[![](images/ferdous.jpg)](https://twitter.com/ferbsx)
 
 ### [Ferdous](https://twitter.com/ferbsx)
 
@@ -52,7 +52,7 @@ Bioinformatics student, Ruby Monsta, loves to travel, code and try new things.
 
 Responsible for: Website, Event Planning, Finances & Sponsors, Project Groups, Social Media
 
-[![](http://railsgirlsberlin.de/wp-content/uploads/2017/04/kaja.jpg)](https://twitter.com/alizenero)
+[![](images/kaja.jpg)](https://twitter.com/alizenero)
 
 
 ### [Kaja](https://twitter.com/alizenero)
@@ -61,8 +61,7 @@ Philosopher, soccer player, Ruby coder and feminist. Loves food and her bicycle.
 
 Responsible for: Attendee Coordination, Event Planning, Newsletter and Social Media
 
-[![](http://railsgirlsberlin.de/wp-content/uploads/2018/02/CarolinaRGB.jpg)](https://twitter.com/CaroliSonne)
-
+[![](images/CarolinaRGB.jpg)](https://twitter.com/CaroliSonne)
 
 ### [Carolina](https://twitter.com/CaroliSonne)
 
@@ -71,7 +70,7 @@ Philanthropist and Humanist, HR professional and code learner, loves tech innova
 Responsible for: Attendee Coordination, Event Planning, Sponsors
 
 
-[![](http://railsgirlsberlin.de/wp-content/uploads/2018/08/squared_500.png)](https://github.com/elfenars)
+[![](images/squared_500.png)](https://github.com/elfenars)
 
 ### [Feña](https://github.com/elfenars)
 
