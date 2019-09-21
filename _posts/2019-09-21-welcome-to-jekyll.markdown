@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  I'm alive
 categories: jekyll update
 ---
