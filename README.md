@@ -10,4 +10,4 @@
     cd cc-website
     bundle exec jekyll serve
 
-…and then go to http://localhost:4000.
+…and then go to http://localhost:4000/CC-website/.
