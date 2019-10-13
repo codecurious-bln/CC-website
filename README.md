@@ -13,4 +13,8 @@ Go to your terminal and run:
     bundle
     bundle exec jekyll serve
 
-…and then go to http://localhost:4000/CC-website/.
+…and then go to http://localhost:4000/
+
+## Adding an event
+
+Create a `YYYY-MM-DD-title-to-display.markdown` file inside `_events` folder. Have a look at other files for example: `_events/2019-09-21-code-and-cake.markdown`
