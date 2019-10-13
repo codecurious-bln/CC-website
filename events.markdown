@@ -1,3 +1,7 @@
+---
+permalink: '/events'
+---
+
 <ul>
   {% for event in site.events %}
     <li>
