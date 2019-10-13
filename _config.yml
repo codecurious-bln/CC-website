@@ -33,6 +33,10 @@ github_username:  codecurious-bln
 theme: minima
 plugins:
   - jekyll-feed
+header_pages:
+  - about.markdown
+  - events.markdown
+
 
 collections:
   events:
