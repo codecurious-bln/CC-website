@@ -31,3 +31,9 @@ header_pages:
   - about.markdown
   - events.markdown
 ```
+
+# Social Media
+
+[<img src="logos/twitter.png" width="16"/> @codecurious_bln](https://twitter.com/codecurious_bln)
+
+[<img src="logos/instagram.png" width="16"/> @code.curious](https://www.instagram.com/code.curious/)
