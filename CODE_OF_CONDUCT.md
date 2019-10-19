@@ -1,4 +1,4 @@
-# Citizen Code of Conduct
+# Berlin Code of Conduct
 
 ## 1. Purpose
 
@@ -31,40 +31,33 @@ The following behaviors are expected and requested of all community members:
 
 The following behaviors are considered harassment and are unacceptable within our community:
 
- * Violence, threats of violence or violent language directed against another person.
- * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
- * Posting or displaying sexually explicit or violent material.
- * Posting or threatening to post other people's personally identifying information ("doxing").
- * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
- * Inappropriate photography or recording.
- * Inappropriate physical contact. You should have someone's consent before touching them.
- * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
- * Deliberate intimidation, stalking or following (online or in person).
- * Advocating for, or encouraging, any of the above behavior.
- * Sustained disruption of community events, including talks and presentations.
+ * intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions by any participant in our community online, at all related events and in one-on-one communications carried out in the context of community business.
+ * Community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
-## 5. Weapons Policy
-
-No weapons will be allowed at any code curious events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+#### Harassment includes:
+* harmful or prejudicial verbal or written comments related to gender, sexual orientation, race, religion, disability;
+* inappropriate use of nudity and/or sexual images (including presentation slides);
+* inappropriate depictions of violence (including presentation slides);
+* deliberate intimidation, stalking or following;
+* harassing photography or recording;
+* sustained disruption of talks or other events;
+* inappropriate physical contact, and unwelcome sexual attention.
 
 ## 6. Consequences of Unacceptable Behavior
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
-
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
+Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated. Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. Email us at contact@codecurious.org, tweet us (@codecurius-bln). If you're having problems with organisers, you can contact us personally or contact Ferdous [under ferdous@codecurious.org or on twitter @ferbsx] or Yonatan [under yonatan@shuhugah.com or @shushugah on Twitter].
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. Email us at contact@codecurious.org, tweet us (@codecurius-bln). If you'd rather speak directly to certain organisers, you can contact Ferdous in English or German [under ferdous@codecurious.org or on twitter @ferbsx] or Yonatan in English [under yonatan@shuhugah.com or @shushugah on Twitter] or Kaja in German or English [under kaja@codecurious.org or @AlizeNero].
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 8. Addressing Grievances
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify code curious organisers with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
-
 
 
 ## 9. Scope
@@ -75,10 +68,8 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-Email us at contact@codecurious.org, tweet us (@codecurius-bln). If you'd rather speak directly to certain organisers, you can contact us in person or contact Ferdous [under itrytocode@gmail.com or on twitter @ferbsx] or Yonatan [under yonatan@shuhugah.com or @shushugah on Twitter] or Kaja [under kaja@codecurious.org or @AlizeNero].
+Email us at contact@codecurious.org, tweet us (@codecurius-bln). If you'd rather speak directly to certain organisers, you can contact Ferdous in English or German [under ferdous@codecurious.org or on twitter @ferbsx] or Yonatan in English [under yonatan@shuhugah.com or @shushugah on Twitter] or Kaja in German or English [under kaja@codecurious.org or @AlizeNero].
 
 ## 11. License and attribution
 
-The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
-
-Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+Berlin Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. It is based on the pdx.rb Code of Conduct.
