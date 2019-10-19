@@ -44,9 +44,15 @@ Wenn ein Community-Mitglied sich auf inakzeptable Art und Weise verhält, steht 
 
 ## 7. Wenn du inakzeptables Verhalten erlebst
 
-Wenn du von inakzeptablem Verhalten betroffen bist, dieses beobachtest oder andere Anliegen hast, teile dies bitte so bald wie möglich einer für die Veranstaltung verantwortlichen Person mit.
-Du kannst uns eine Email schreiben auf contact@codecurious.org oder tweeten @codecurius_bln. Falls Du lieber eine Organisatorin persönlich ansprechen möchtest, kannst Du Ferdous [itrytocode@gmail.com oder @ferbsx auf Twitter] oder Kaja [kaja@codecurious.org oder @AlizeNero auf Twitter] anschreiben.
+Wenn Du von inakzeptablem Verhalten betroffen bist, dieses beobachtest oder andere Anliegen hast, teile dies bitte so bald wie möglich einer für die Veranstaltung verantwortlichen Person mit.
 
+### Contact Info
+- Email uns auf contact@codecurious.org
+- Via Twitter Direktnachricht [@codecurious_bln](https://twitter.com/messages/28624302-553622948).
+
+Falls Du lieber eine Organisatorin persönlich ansprechen möchtest, kontaktiere:
+- Ferdous (English/Deutsch) per email itrytocode@gmail.com oder Twitter [@ferbsx](https://twitter.com/@ferbsx)
+- Kaja (Deutsch/English) per email kaja@codecurious.org oder Twitter [@AlizeNero](https://twitter.com/@AlizeNero)
 
 Zusätzlich stehen die Veranstaltenden zur Verfügung, um Community-Mitgliedern dabei zu helfen, mit den lokalen Ordnungs- und Strafverfolgungskräften in Kontakt zu treten als auch ihr Sicherheitsgefühl anderweitig wieder herzustellen. Im Rahmen von Veranstaltungen mit persönlicher physischer Anwesenheit stellen die Veranstaltenden auf Wunsch der betroffenen Person auch Begleitung zur Verfügung.
 
@@ -58,10 +64,6 @@ Wenn du dich zu Unrecht oder auf ungerechte Art und Weise beschuldigt fühlst, d
 
 Wir erwarten, dass sich alle Teilnehmenden der Community (bezahlte oder unbezahlte Beitragende, Sponsoren sowie andere Gäste) an jedweden Veranstaltungsorten der Community - online und offline - sowie in allen persönlichen Gesprächen im Rahmen der Community an diesen Verhaltenskodex halten.
 
-## 10. Contact info
-
-Du kannst uns eine Email schreiben auf contact@codecurious.org oder tweeten @codecurius_bln. Falls Du lieber eine Organisatorin persönlich ansprechen möchtest, kannst Du Ferdous [itrytocode@gmail.com oder @ferbsx auf Twitter] oder Kaja [kaja@codecurious.org oder @AlizeNero auf Twitter] anschreiben.
-
-##11. Lizenz und Namensnennung
+## 10. Lizenz und Namensnennung
 
 Der Berlin Code of Conduct steht unter der Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) Lizenz. Er basiert auf dem pdx.rb Code of Conduct.

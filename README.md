@@ -31,3 +31,6 @@ header_pages:
   - about.markdown
   - events.markdown
 ```
+
+## Code of Conduct
+See the code of conduct [here](CODE_OF_CONDUCT.md).

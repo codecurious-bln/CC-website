@@ -51,7 +51,16 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. Email us at contact@codecurious.org, tweet us (@codecurius-bln). If you'd rather speak directly to certain organisers, you can contact Ferdous in English or German [under itrytocode@gmail.com or on twitter @ferbsx] or Yonatan in English [under yonatan@shuhugah.com or @shushugah on Twitter] or Kaja in German or English [under kaja@codecurious.org or @AlizeNero].
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible.
+
+### Contact information
+- Email us at contact@codecurious.org
+- Via Twitter direct messages [@codecurious_bln](https://twitter.com/messages/28624302-553622948).
+
+If you would prefer to speak directly with individual organizers, you can contact these people
+- Ferdous (English/Deutsch) by email itrytocode@gmail.com and Twitter [@ferbsx](https://twitter.com/@ferbsx)
+- Yonatan (English) by email yonatan@shuhugah.com and Twitter [@shushugah](https://twitter.com/@shushugah)
+- Kaja (Deutsch/English) by email kaja@codecurious.org and Twitter [@AlizeNero](https://twitter.com/@AlizeNero)
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
@@ -65,10 +74,6 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-## 10. Contact info
-
-Email us at contact@codecurious.org, tweet us (@codecurius-bln). If you'd rather speak directly to certain organisers, you can contact Ferdous in English or German [under itrytocode@gmail.com or on twitter @ferbsx] or Yonatan in English [under yonatan@shuhugah.com or @shushugah on Twitter] or Kaja in German or English [under kaja@codecurious.org or @AlizeNero].
-
-## 11. License and attribution
+## 10. License and attribution
 
 Berlin Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. It is based on the pdx.rb Code of Conduct.
