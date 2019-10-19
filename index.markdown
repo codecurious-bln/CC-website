@@ -4,6 +4,10 @@
 
 layout: events_layout
 ---
+{% include edit_on_github.html %}
 
-👷🏻‍♀️ This is temporary. Have a look at our [GitHub issues](https://github.com/codecurious-bln/CC-website/issues
-) for ways you can improve this website! 🐿
+👷🏻‍♀️ This is temporary. 
+
+Have a look at our [GitHub issues](https://github.com/codecurious-bln/CC-website/issues) for ways you can improve this website! 🐿
+
+
