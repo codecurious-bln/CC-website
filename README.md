@@ -31,3 +31,9 @@ header_pages:
   - about.markdown
   - events.markdown
 ```
+
+## Social Media
+
+[@codecurious_bln](https://twitter.com/codecurious_bln)
+
+[@code.curious](https://www.instagram.com/code.curious/)
