@@ -51,8 +51,8 @@ Wenn Du von inakzeptablem Verhalten betroffen bist, dieses beobachtest oder ande
 - Via Twitter Direktnachricht [@codecurious_bln](https://twitter.com/messages/28624302-553622948).
 
 Falls Du lieber eine Organisatorin persönlich ansprechen möchtest, kontaktiere:
-- Ferdous (English/Deutsch) per email itrytocode@gmail.com oder Twitter [@ferbsx](https://twitter.com/@ferbsx)
-- Kaja (Deutsch/English) per email kaja@codecurious.org oder Twitter [@AlizeNero](https://twitter.com/@AlizeNero)
+- Ferdous (English/Deutsch) per email [itrytocode@gmail.com](mailto:itrytocode@gmail.com) oder Twitter [@ferbsx](https://twitter.com/@ferbsx)
+- Kaja (Deutsch/English) per email [kaja@codecurious.org](mailto:kaja@codecurious.org) oder Twitter [@AlizeNero](https://twitter.com/@AlizeNero)
 
 Zusätzlich stehen die Veranstaltenden zur Verfügung, um Community-Mitgliedern dabei zu helfen, mit den lokalen Ordnungs- und Strafverfolgungskräften in Kontakt zu treten als auch ihr Sicherheitsgefühl anderweitig wieder herzustellen. Im Rahmen von Veranstaltungen mit persönlicher physischer Anwesenheit stellen die Veranstaltenden auf Wunsch der betroffenen Person auch Begleitung zur Verfügung.
 

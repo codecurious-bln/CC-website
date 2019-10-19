@@ -58,9 +58,9 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 - Via Twitter direct messages [@codecurious_bln](https://twitter.com/messages/28624302-553622948).
 
 If you would prefer to speak directly with individual organizers, you can contact these people
-- Ferdous (English/Deutsch) by email itrytocode@gmail.com and Twitter [@ferbsx](https://twitter.com/@ferbsx)
-- Yonatan (English) by email yonatan@shuhugah.com and Twitter [@shushugah](https://twitter.com/@shushugah)
-- Kaja (Deutsch/English) by email kaja@codecurious.org and Twitter [@AlizeNero](https://twitter.com/@AlizeNero)
+- Ferdous (English/Deutsch) by email [itrytocode@gmail.com](mailto:itrytocode@gmail.com) and Twitter [@ferbsx](https://twitter.com/@ferbsx)
+- Yonatan (English) by email [yonatan@shuhugah.com](mailto:yonatan@shuhugah.com) and Twitter [@shushugah](https://twitter.com/@shushugah)
+- Kaja (Deutsch/English) by email [kaja@codecurious.org](mailto:kaja@codecurious.org) and Twitter [@AlizeNero](https://twitter.com/@AlizeNero)
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
