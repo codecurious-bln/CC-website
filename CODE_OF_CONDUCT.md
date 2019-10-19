@@ -51,14 +51,13 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. Email us at contact@codecurious.org, tweet us (@codecurius-bln). If you'd rather speak directly to certain organisers, you can contact Ferdous in English or German [under ferdous@codecurious.org or on twitter @ferbsx] or Yonatan in English [under yonatan@shuhugah.com or @shushugah on Twitter] or Kaja in German or English [under kaja@codecurious.org or @AlizeNero].
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. Email us at contact@codecurious.org, tweet us (@codecurius-bln). If you'd rather speak directly to certain organisers, you can contact Ferdous in English or German [under itrytocode@gmail.com or on twitter @ferbsx] or Yonatan in English [under yonatan@shuhugah.com or @shushugah on Twitter] or Kaja in German or English [under kaja@codecurious.org or @AlizeNero].
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 8. Addressing Grievances
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify code curious organisers with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
-
 
 ## 9. Scope
 
@@ -68,7 +67,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-Email us at contact@codecurious.org, tweet us (@codecurius-bln). If you'd rather speak directly to certain organisers, you can contact Ferdous in English or German [under ferdous@codecurious.org or on twitter @ferbsx] or Yonatan in English [under yonatan@shuhugah.com or @shushugah on Twitter] or Kaja in German or English [under kaja@codecurious.org or @AlizeNero].
+Email us at contact@codecurious.org, tweet us (@codecurius-bln). If you'd rather speak directly to certain organisers, you can contact Ferdous in English or German [under itrytocode@gmail.com or on twitter @ferbsx] or Yonatan in English [under yonatan@shuhugah.com or @shushugah on Twitter] or Kaja in German or English [under kaja@codecurious.org or @AlizeNero].
 
 ## 11. License and attribution
 
