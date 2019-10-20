@@ -32,6 +32,9 @@ header_pages:
   - events.markdown
 ```
 
+## Code of Conduct
+See the code of conduct [here](CODE_OF_CONDUCT.md).
+
 ## Social Media
 
 [![@codecurious_bln](https://imgur.com/c8T4FEm.png)](https://twitter.com/codecurious_bln) [@codecurious_bln](https://twitter.com/codecurious_bln)
