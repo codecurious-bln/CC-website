@@ -33,6 +33,7 @@ plugins:
 header_pages:
   - about.markdown
   - events.markdown
+  - subsribe.markdown
 
 
 collections:
