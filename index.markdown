@@ -4,7 +4,6 @@
 
 layout: events_layout
 ---
-{% include edit_on_github.html %}
 
 👷🏻‍♀️ This is temporary. 
 
