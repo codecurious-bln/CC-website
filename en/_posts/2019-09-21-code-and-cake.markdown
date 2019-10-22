@@ -1,7 +1,8 @@
 ---
-categories: intermediate
-event_type: code-cake
-layout: event_layout
+tags: intermediate code-cake
+categories: en events
+layout: single_event
+lang: "en"
 ---
 
 ## Let’s dive deeper into Coding <3

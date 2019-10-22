@@ -1,0 +1,16 @@
+languages:
+  en:
+    label: English
+    icon: 🇺🇸
+  de:
+    label: Deutsch
+    icon: 🇩🇪
+selectLang:
+  en: "Select Your Language"
+  de: "Sprachen bittw"
+relatedPosts:
+  en: "Related Posts"
+  de: "andere Sprachen"
+viewIn:
+  en: Read in English
+  de: Lies auf Deutsch

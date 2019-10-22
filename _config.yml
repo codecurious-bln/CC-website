@@ -34,12 +34,13 @@ header_pages:
   - about.markdown
   - events.markdown
 
-
 collections:
-  events:
-    output: true
-    future: true
-    permalink: /events/:name
+  posts:
+    permalink: /:categories/:title
+future: true
+
+    #
+    # permalink: /:page.lang/events/:name
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

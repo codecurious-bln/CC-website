@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1>{{ page.title }}</h1>
+  {{ content }}
+  <br />
+  {{site.en.events}}
+  {% assign events = site.posts | where:"lang", page.lang %}
+  <ul class="post-list">
+
+  {% for event in events %}
+    <li>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span class="post-meta">{{ event.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ event.url | relative_url }}">
+          {{ event.title | escape }}
+        </a>
+      </h3>
+    </li>
+  </ul>
+  {% endfor %}
+</div>

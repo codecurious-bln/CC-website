@@ -1,5 +1,5 @@
 ---
 permalink: '/events'
-layout: events_layout
+layout: translated_events
 title: 'Events'
 ---
