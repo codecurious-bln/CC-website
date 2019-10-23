@@ -1,8 +1,7 @@
 ---
 tags: beginner rails_beginner_workshop
 categories: en events
-layout: single_event
-lang: "en"
+lang: en
 i18n_key: rails_beginner_workshop_2019_12
 ---
 

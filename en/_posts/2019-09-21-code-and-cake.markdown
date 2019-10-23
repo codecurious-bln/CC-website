@@ -1,8 +1,7 @@
 ---
 tags: intermediate code-cake
 categories: en events
-layout: single_event
-lang: "en"
+lang: en
 ---
 
 ## Let’s dive deeper into Coding <3

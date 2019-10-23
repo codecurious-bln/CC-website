@@ -39,8 +39,15 @@ collections:
     permalink: /:categories/:title
 future: true
 
-    #
-    # permalink: /:page.lang/events/:name
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: single_event
+      i18n_key: yolo
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
