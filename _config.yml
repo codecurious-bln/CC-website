@@ -25,6 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://codecurious-bln.github.io/CC-website/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: codecurious_bln
 github_username:  codecurious-bln
+instagram_username: code.curious
 
 # Build settings
 theme: minima

@@ -23,6 +23,7 @@
               <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
+          <a class="page-link" href="https://github.com/codecurious-bln/CC-website/edit/master/{{ page.path }}" target="_blank">Edit on GitHub</a>
           {% include translated_links.html %}
         </div>
       </nav>
