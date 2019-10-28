@@ -1,11 +1,8 @@
 ---
 tags: beginner rails_beginner_workshop
 categories: en events
-lang: en
 i18n_key: rails_beginner_workshop_2019_12
 ---
-
-6th and 7th December 2019
 
 code curious want to give absolute beginners the opportunity and community to learn the technologies needed to build their own website, with a hands on introduction to a web framework called Ruby on Rails. Attendees will be guided by coaches in building their website.
 
@@ -15,12 +12,12 @@ We provide a unique learning environment to not only support, but also further m
 
 The workshop is geared towards women with no coding experience. [**Apply Here**](http://workshops.codecurious.org/events/6/applications/new)
 
-If are you are interested in coaching, please sign up [here](https://goo.gl/forms/yMyAGKR8MYan17M83).
+If are you are interested in coaching, please sign up [**here**](https://goo.gl/forms/yMyAGKR8MYan17M83).
 
 ## Registration Schedule
-- **Registration starts**: 1 November
-- **Registration ends**: 20 November
-- **Confirmation email sent**: 30 November
+- Registration starts: **1 November**
+- Registration ends: **20 November**
+- Confirmation email sent: **30 November**
 
 
 ## What
@@ -34,15 +31,14 @@ You will need a laptop (don't forget your charging cable). If you don’t have a
 - **18:30 – 20:30**: Install all programs for the workshop and say hello to other attendees and coaches
 
 ### Saturday, 7 December - Workshop Day
-- **10:00 - 10:30**: Coffee & Registration. You will find your group and coach and make yourself comfortable.
-- **10:30 – 11:00**: Welcome Talk by code curious
-- **11:00 – 12:00**: We will give you an introduction to web application basics
-- **12:00 - 13:00**: Get to know your group and start working with Ruby.
-- **13:00 – 14:00**: Lunch (We provide some snacks and ask attendees to bring some food to share with everyone)
-- **14:00 – 14:30**: Lightning Talks
-- **14:30 – 17:30**: Coding in groups. You will dive into building your first web application.
-- **17:30 - 18:00**: A talk about how you can continue coding.
-18:00 | Closing Workshop Day
+- 10:00 - 10:30: **Coffee & Registration**. You will find your group and coach and make yourself comfortable.
+- 10:30 – 11:00: **Welcome Intro** by code curious
+- 11:00 – 12:00: **Introduction** to web application basics
+- 12:00 - 13:00: **Get to know** your group and start working with Ruby coding language.
+- 13:00 – 14:00: **Lunch** (It will be provided by Share Now)
+- 14:00 – 14:30: **Lightning Talks**
+- 14:30 – 17:30: **Code in groups** You will dive into building your first web application.
+- 17:30 - 18:00: **Final talk** on continuing your coding journey
 
 ## Venue
 
