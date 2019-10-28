@@ -13,14 +13,36 @@ We provide a unique learning environment to not only support, but also further m
 
 ## Who
 
-The workshop is geared towards women with no coding experience.
+The workshop is geared towards women with no coding experience. [**Apply Here**](http://workshops.codecurious.org/events/6/applications/new)
 
-If are you are interested in coaching, please sign up [here](LINK PLEASE).
+If are you are interested in coaching, please sign up [here](https://goo.gl/forms/yMyAGKR8MYan17M83).
 
-## Schedule
-- **Registration starts**: 10 November
+## Registration Schedule
+- **Registration starts**: 1 November
 - **Registration ends**: 20 November
 - **Confirmation email sent**: 30 November
+
+
+## What
+
+You will need a laptop (don't forget your charging cable). If you don’t have a laptop, let us know by [email](mailto:contact@codecurious.org)! We can try to arrange one for you.
+
+
+## Workshop Schedule
+
+### Friday, 6 December - Installation Get-together
+- **18:30 – 20:30**: Install all programs for the workshop and say hello to other attendees and coaches
+
+### Saturday, 7 December - Workshop Day
+- **10:00 - 10:30**: Coffee & Registration. You will find your group and coach and make yourself comfortable.
+- **10:30 – 11:00**: Welcome Talk by code curious
+- **11:00 – 12:00**: We will give you an introduction to web application basics
+- **12:00 - 13:00**: Get to know your group and start working with Ruby.
+- **13:00 – 14:00**: Lunch (We provide some snacks and ask attendees to bring some food to share with everyone)
+- **14:00 – 14:30**: Lightning Talks
+- **14:30 – 17:30**: Coding in groups. You will dive into building your first web application.
+- **17:30 - 18:00**: A talk about how you can continue coding.
+18:00 | Closing Workshop Day
 
 ## Venue
 
@@ -30,6 +52,6 @@ We will meet in ShareNow's office at [Brunnenstraße 19-21, Berlin](https://www.
 
 The venue is wheelchair accessible through the side entrance on Veteranenstraße. Toilets are also accessible.
 
-Dogs are allowed on site, but please bring your dog only if they are very quiet and do not disturb everyone. Be considerate and respectful of other people's fears and write us an [email](mailto:contact@codecurious.org) in advance if plan on bringing your dog
+Dogs are allowed on site, but please bring your dog only if they are very quiet and do not disturb everyone. Be considerate and respectful of other people's fears and write us an [email](mailto:contact@codecurious.org) in advance if plan on bringing your dog.
 
 We strive to make our events as inclusive as possible. If there is something we can provide, you can contact any of the organisers.

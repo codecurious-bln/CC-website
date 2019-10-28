@@ -6,11 +6,11 @@ languages:
     label: Deutsch
     icon: 🇩🇪
 selectLang:
-  en: "Select Your Language"
-  de: "Sprachen bittw"
+  en: Select Your Language
+  de: Sprachauswahl
 relatedPosts:
-  en: "Related Posts"
-  de: "andere Sprachen"
+  en: Related Posts
+  de: Relevante Posts
 viewIn:
   en: Read in English
-  de: Lies auf Deutsch
+  de: Seite auf Deutsch
