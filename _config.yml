@@ -35,9 +35,10 @@ header_pages:
   - en/about.markdown
   - en/events.markdown
 
+# same as /:categories/:year/:month/:day/:title/
+permalink: pretty
 collections:
   posts:
-    permalink: /:categories/:title
 future: true
 
 defaults:
