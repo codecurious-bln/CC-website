@@ -31,8 +31,8 @@ theme: minima
 plugins:
   - jekyll-feed
 header_pages:
-  - about.markdown
-  - events.markdown
+  - en/about.markdown
+  - en/events.markdown
 
 collections:
   posts:
