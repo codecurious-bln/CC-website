@@ -32,15 +32,23 @@ theme: minima
 plugins:
   - jekyll-feed
 header_pages:
-  - about.markdown
-  - events.markdown
-
+  - en/about.markdown
+  - en/events.markdown
 
 collections:
-  events:
-    output: true
-    future: true
-    permalink: /events/:name
+  posts:
+    permalink: /:categories/:title
+future: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: single_event
+      i18n_key: yolo
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

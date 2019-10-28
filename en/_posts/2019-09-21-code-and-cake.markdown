@@ -1,10 +1,10 @@
 ---
-categories: intermediate
-event_type: code-cake
-layout: event_layout
+tags: intermediate code-cake
+categories: en events
+i18n_key: code_cake_2019_09
 ---
 
-## Let’s dive deeper into Coding <3
+## Let’s dive deeper into Coding ♥️
 
 Whether you’ve been to a Beginners’ Workshop or started programming on your own – if you have a bit of the basics down, this day is for you!
 

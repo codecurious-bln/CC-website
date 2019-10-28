@@ -1,0 +1,16 @@
+languages:
+  en:
+    label: English
+    icon: 🇺🇸
+  de:
+    label: Deutsch
+    icon: 🇩🇪
+selectLang:
+  en: Select Your Language
+  de: Sprachauswahl
+relatedPosts:
+  en: Related Posts
+  de: Relevante Posts
+viewIn:
+  en: Read in English
+  de: Seite auf Deutsch
