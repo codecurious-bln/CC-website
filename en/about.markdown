@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What is code curious
+title: What is code curious?
 i18n_key: about
 ---
 
@@ -64,3 +64,6 @@ Philosopher, soccer player, Ruby coder and feminist. Loves food and her bicycle.
 ### [Amr](https://twitter.com/amrAbdelwahab)
 ### [Yonatan](https://twitter.com/shushugah)
 ### [Pascal](https://twitter.com/pascalwengerter)
+
+## How can you help?
+You can help us by volunteering your time and coaching at our workshops or joining our organisers team to plan more workshops. We are also constantly looking for companies to sponsor us and host our workshops. Please [contact us](mailto:contact@codecurious.org) if you are interested in helping close the gender gap in IT. 

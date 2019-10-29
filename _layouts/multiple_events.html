@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="home">
+  {{ content }}
+  <h1>{{ page.title }}</h1>
+  <ul class="post-list">
+  {% for post in site.posts %}
+    {% assign post_categories = post.categories | join: ' ' %}
+      <li>
+        {% if post_categories == page.categories %}
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+          <p>{{ post.content | strip_html | truncatewords:20 }}</p>
+        </h3>
+        {% endif %}
+      </li>
+  {% endfor %}
+  </ul>
+</div>
