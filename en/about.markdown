@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What is code curious
+title: about
 i18n_key: about
 ---
 
@@ -64,3 +64,4 @@ Philosopher, soccer player, Ruby coder and feminist. Loves food and her bicycle.
 ### [Amr](https://twitter.com/amrAbdelwahab)
 ### [Yonatan](https://twitter.com/shushugah)
 ### [Pascal](https://twitter.com/pascalwengerter)
+
