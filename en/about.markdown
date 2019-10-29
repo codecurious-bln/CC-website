@@ -12,7 +12,7 @@ Formerly known as Rails Girls Berlin, we've been offering free coding workshops 
 
 We are trying to change the gender imbalance by giving women the **opportunity and a community to start learning** to code. In addition to that we want to empower women to follow their dreams and put their business ideas into reality without a technical co-founder.
 
-## Why did we change our name from Rails Girls Berlin to /code curious/\i?
+## Why did we change our name from Rails Girls Berlin to code curious?
 
 There were a number of reasons, all described in full in [this article](../_posts/2017-10-25-rails-girls-berlin-is-growing-up.md). Briefly, the main reasons for the change were that we wanted to:
 - be open towards other technologies and programming languages,
@@ -41,22 +41,22 @@ By teaching women in groups of two, we create an **environment without pressure 
 
 We welcome people who *identify as women* of *any ethnicity and background above the age of 16*. No matter if you’re still in high school, have been working for many years or are staying home to take care of relatives. Diversity matters to us, so if you are not fluent in English, don’t own a laptop, can’t find someone to care of your children during the workshop, please contact us and we will try to find a solution.
 
-## Who we are
+## Who we are?
 
-/code curious/\i Berlin events are organized by a small group of organisers and a huge group of programmers. Everyone is volunteering for this project, because we believe that women are the future of programming. The overwhelmingly positive feedback we are receiving from our attendees and coaches is convincing us to keep this project going.
+code curious Berlin events are organized by a small group of organisers and a huge group of programmers. Everyone is volunteering for this project, because we believe that women are the future of programming. The overwhelmingly positive feedback we are receiving from our attendees and coaches is convincing us to keep this project going.
 
 **How you can help**  
-We are always looking for people to support /code curious/\i by either coaching or sponsoring our events or helping us organise them. If you want to get involved, then please drop us a line [contact@codecurious.org](mailto:contact@codecurious.org)
+We are always looking for people to support code curious by either coaching or sponsoring our events or helping us organise them. If you want to get involved, then please drop us a line [contact@codecurious.org](mailto:contact@codecurious.org)
 
 ## Team
 
-[![](../assets/images/ferdous.jpg)](https://twitter.com/ferbsx)
+[![](~/assets/images/ferdous.jpg)](https://twitter.com/ferbsx)
 ### [Ferdous](https://twitter.com/ferbsx)
 
-Bioinformatician, Ruby Monsta, loves to travel, code and try new things.  
+Bioinformatician, [Ruby Monster](http://rubymonstas.org), loves to travel, code and try new things.  
 
 
-[![](../assets/images/kaja.jpg)](https://twitter.com/alizenero)
+[![](~/assets/images/kaja.jpg)](https://twitter.com/alizenero)
 ### [Kaja](https://twitter.com/alizenero)
 
 Philosopher, soccer player, Ruby coder and feminist. Loves food and her bicycle.  
