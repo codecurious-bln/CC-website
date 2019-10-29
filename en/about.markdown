@@ -1,19 +1,18 @@
 ---
 layout: page
 title: What is code curious
-permalink: /about/
+i18n_key: about
 ---
 
 ## What is our mission?
 
-<!-- Founded in April 2012, under our former name Rails Girls Berlin is the daughter of the **worldwide non-profit organization** [Rails Girls](http://railsgirls.com) that started in Finland. -->
-Formerly known as Rails Girls Berlin, we've been offering free programming workshops for women without any background in coding since 2012.
+Formerly known as Rails Girls Berlin, we've been offering free coding workshops for women without any background in coding since 2012.
 
-**We want to help to close the gender gap** in IT. Currently less than 20% of computer science majors are women, leaving women to be mostly consumers of technological products instead of creators and makers. Furthermore, it has been found that gender diversity leads to better decision making, increased creativity and enhanced, innovative performances.
+**We want to help close the gender gap** in IT. Currently less than 20% of computer science majors are women, leaving women to be mostly consumers of technological products instead of creators and makers. Furthermore, it has been found that gender diversity leads to better decision making, increased creativity and enhanced, innovative performances.
 
 We are trying to change the gender imbalance by giving women the **opportunity and a community to start learning** to code. In addition to that we want to empower women to follow their dreams and put their business ideas into reality without a technical co-founder.
 
-## Why did we change our name from Rails Girls Berlin to code curious?
+## Why did we change our name from Rails Girls Berlin to /code curious/\i?
 
 There were a number of reasons, all described in full in [this article](../_posts/2017-10-25-rails-girls-berlin-is-growing-up.md). Briefly, the main reasons for the change were that we wanted to:
 - be open towards other technologies and programming languages,
@@ -44,29 +43,23 @@ We welcome people who *identify as women* of *any ethnicity and background above
 
 ## Who we are
 
-Code curious Berlin events are organized by a small group of organisers and a huge group of programmers. Everyone is volunteering for this project, because we believe that women are the future of programming. The overwhelmingly positive feedback we are receiving from our attendees and coaches is convincing us to keep this project going.
+/code curious/\i Berlin events are organized by a small group of organisers and a huge group of programmers. Everyone is volunteering for this project, because we believe that women are the future of programming. The overwhelmingly positive feedback we are receiving from our attendees and coaches is convincing us to keep this project going.
 
 **How you can help**  
-We are always looking for people to support code curious by either coaching or sponsoring our events or helping us organise them. If you want to get involved, then please drop us a line [contact@codecurious.org](mailto:contact@codecurious.org)
+We are always looking for people to support /code curious/\i by either coaching or sponsoring our events or helping us organise them. If you want to get involved, then please drop us a line [contact@codecurious.org](mailto:contact@codecurious.org)
 
 ## Team
 
 [![](../assets/images/ferdous.jpg)](https://twitter.com/ferbsx)
-
 ### [Ferdous](https://twitter.com/ferbsx)
 
 Bioinformatician, Ruby Monsta, loves to travel, code and try new things.  
 
-Responsible for: Website, Event Planning, Finances & Sponsors, Attendee Coordination, Social Media
 
 [![](../assets/images/kaja.jpg)](https://twitter.com/alizenero)
-
-
 ### [Kaja](https://twitter.com/alizenero)
 
 Philosopher, soccer player, Ruby coder and feminist. Loves food and her bicycle.  
-
-Responsible for: Attendee Coordination, Event Planning, Newsletter and Social Media
 
 ### [Amr](https://twitter.com/amrAbdelwahab)
 ### [Yonatan](https://twitter.com/shushugah)
