@@ -1,7 +1,7 @@
 ---
 layout: default
 categories: de
-i18n_key: index
+i18n_key: imrpint
 ---
 
 
