@@ -1,7 +1,6 @@
 ---
 layout: default
-categories: de
-i18n_key: imrpint
+permalink: de/impressum
 ---
 
 
