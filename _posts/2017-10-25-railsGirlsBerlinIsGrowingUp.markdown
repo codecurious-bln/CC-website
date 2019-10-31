@@ -1,8 +1,12 @@
 ---
-title: "Rails Girls Berlin is growing up"
+layout: page
+title: Rails Girls Berlin is growing up
 date: "2017-10-25"
-coverImage: "../assets/images/IMG_0876b.jpg"
+published: true
 ---
+
+![](../../assets/images/IMG_0876b.jpg)
+
 
 Rails Girls Berlin exists since its first workshop in 2012. So far, we’ve organized more than 30 workshops with more than 1,200 learners. From within our community, great projects such as [speakerinnen.org](http://speakerinnen.org), [rorganize.it](http://rorganize.it) and [diversitytickets.org](http://diversitytickets.org) have developed. Additionally, projects like [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/), [ClojureBridge Berlin](http://clojurebridge-berlin.org) and [Heart of Code](http://heartofcode.org) were partially built by people who found or refreshed their love for programming with us.
 
