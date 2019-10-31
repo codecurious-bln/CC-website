@@ -14,7 +14,7 @@ We are trying to change the gender imbalance by giving women the **opportunity a
 
 ## Why did we change our name from Rails Girls Berlin to code curious?
 
-There were a number of reasons, all described in full in [this article](_posts/2017-10-25-rails-girls-berlin-is-growing-up.md). Briefly, the main reasons for the change were that we wanted to:
+There were a number of reasons, all described in full in [this article](../../2017-10-25-railsGirlsBerlinIsGrowingUp.markdown). Briefly, the main reasons for the change were that we wanted to:
 - be open towards other technologies and programming languages,
 - address women, trans and non-binary people instead of girls,
 - highlight a playful aspect of coding.
@@ -46,21 +46,38 @@ We welcome people who *identify as women* of *any ethnicity and background above
 code curious Berlin events are organized by a small group of organisers and a huge group of programmers. Everyone is volunteering for this project, because we believe that women are the future of programming. The overwhelmingly positive feedback we are receiving from our attendees and coaches is convincing us to keep this project going.
 
 ### Organising Team
+<div>
+    <p style="padding: 0 15px; float: left;" ><img src="../../assets/images/ferdous.jpg" alt="Ferdous" width="200"></p>
+    <p> <a href="https://twitter.com/ferbsx"><h4>Ferdous</h4></a></p>
+    <p> Bioinformatician, <a href="http://rubymonstas.org">Ruby Monster</a>, loves to travel, code and try new things. </p>
+</div>
 
-[![](assets/images/ferdous.jpg)](https://twitter.com/ferbsx)
-#### [Ferdous](https://twitter.com/ferbsx)
+<!-- <br> -->
 
-Bioinformatician, [Ruby Monster](http://rubymonstas.org), loves to travel, code and try new things.  
+<div style="clear: left;">
+    <p style="padding: 0 15px; float: left;"><img src="../../assets/images/kaja.jpg" alt="Kaja" width="200"></p>
+    <p> <a href="https://twitter.com/alizenero"><h4>Kaja</h4></a></p>
+    <p> Philosopher, soccer player, Ruby coder and feminist. Loves food and her bicycle. </p>
+</div>
 
+<div style="clear: left;">
+    <!-- <p style="padding: 0 15px; float: left;"><img src="../../assets/images/amr.jpg" alt="Amr" width="200"></p> -->
+    <p> <a href="https://twitter.com/amrAbdelwahab"><h4>Amr</h4></a></p>
+    <!-- <p> Amr's description goes here. </p> -->
+</div>
 
-[![](assets/images/kaja.jpg)](https://twitter.com/alizenero)
-#### [Kaja](https://twitter.com/alizenero)
+<div style="clear: left;">
+    <!-- <p style="padding: 0 15px; float: left;"><img src="../../assets/images/yonatan.jpg" alt="Yonatan" width="200"></p> -->
+    <p> <a href="https://twitter.com/shushugah"><h4>Yonatan</h4></a></p>
+    <!-- <p> Yonatan's description goes here. </p> -->
+</div>
 
-Philosopher, soccer player, Ruby coder and feminist. Loves food and her bicycle.  
+<div style="clear: left;">
+    <!-- <p style="padding: 0 15px; float: left;"><img src="../../assets/images/pascal.jpg" alt="Pascal" width="200"></p> -->
+    <p> <a href="https://twitter.com/pascalwengerter"><h4>Pascal</h4></a></p>
+    <!-- <p> Pascal's description goes here. </p> -->
+</div>
 
-#### [Amr](https://twitter.com/amrAbdelwahab)
-#### [Yonatan](https://twitter.com/shushugah)
-#### [Pascal](https://twitter.com/pascalwengerter)
 
 ## How can you help?
 You can help us by volunteering your time and coaching at our workshops or joining our organisers team to plan more workshops. We are also constantly looking for companies to sponsor us and host our workshops. Please [contact us](mailto:contact@codecurious.org) if you are interested in helping close the gender gap in IT.
