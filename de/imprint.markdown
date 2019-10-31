@@ -14,7 +14,7 @@ Ruby Berlin e.V. Adalbertstr. 7-8 10999 Berlin
 
 Kontakt:
 
-E-Mail: contact@railsgirlsberlin.de
+E-Mail: contact@codecurious.org
 Streitschlichtung
 
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
