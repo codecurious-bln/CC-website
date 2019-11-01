@@ -4,6 +4,8 @@ categories: en events
 i18n_key: rails_beginner_workshop_2019_12
 ---
 
+![](/assets/images/Dec19-Banner.jpeg)
+
 code curious want to give absolute beginners the opportunity and community to learn the technologies needed to build their own website, with a hands on introduction to a web framework called Ruby on Rails. Attendees will be guided by coaches in building their website.
 
 We provide a unique learning environment to not only support, but also further motivate women who want to code, but don't have the right environment to do so. We are a community, so this is the start of a longer career changing path for many of our attendees.
