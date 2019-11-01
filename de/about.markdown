@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Impressum
+title: Was ist code curious?
 i18n_key: about
 ---
 
