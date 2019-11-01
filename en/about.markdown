@@ -14,7 +14,7 @@ We are trying to change the gender imbalance by giving women the **opportunity a
 
 ## Why did we change our name from Rails Girls Berlin to code curious?
 
-There were a number of reasons, all described in full in [this article](/railsGirlsBerlinIsGrowingUp/). Briefly, the main reasons for the change were that we wanted to:
+There were a number of reasons, all described in full in [this article](/en/blog/2017/10/25/rails-girls-berlin-is-growing-up/). Briefly, the main reasons for the change were that we wanted to:
 - be open towards other technologies and programming languages,
 - address women, trans and non-binary people instead of girls,
 - highlight a playful aspect of coding.
