@@ -1,20 +1,18 @@
 {% if page.i18n_key %}
-  {% if page.layout == 'single_event' %}
+  {% if page.layout == 'single_post' %}
     {% assign posts=site.posts | where:"i18n_key", page.i18n_key %}
     {% assign page_language = page.categories.first | default: page.lang %}
   {% else %}
     {% assign posts=site.pages | where:"i18n_key", page.i18n_key %}
-    {% assign page_language = page.dir | replace: '/' %}
+    {% assign page_language = page.dir | replace: '/' | slice: 0, 2 | default: "en" %}
   {% endif %}
-
   {% if posts.size > 1 %}
     {% for post in posts %}
-      {% if page.layout == 'single_event' %}
+      {% if page.layout == 'single_post' %}
         {% assign post_language=  post.categories.first %}
       {% else %}
-        {% assign post_language=  {{post.dir}} | replace: '/' %}
+        {% assign post_language=  post.dir | replace: '/' | slice: 0,2 | default: "en" %}
       {% endif %}
-
       {% if page_language != post_language %}
         <a title="{{ site.data.translation['viewIn'][post_language]}} {{ site.data.translations.languages[post_language].label }}" class="{{post_language}} page-link" href="{{ post.url }}">🌎 {{ site.data.translation['viewIn'][post_language]}}</a>
       {% endif %}

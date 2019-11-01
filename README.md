@@ -28,6 +28,16 @@ title: Haha
 ---
 ```
 
+For adding a blog post, as opposed to say an event, it is similar but you would change the categories slightly e.g
+
+```
+---
+i18n_key: unique_blog_key
+categories: es blog
+title: Yay a new blog post!
+---
+```
+
 ## Adding a page
 Most pages should be sorted into their respective language folder (`en`/`de`), exceptions may include pages like the 404 error page. If you want to link to a different translation of the page, make sure both pages have the same _internationalization_ key as shown below, while allowing different titles and urls automatically. If you need to override a url regardless of their location, you can set it with `permalink: /whatever`
 

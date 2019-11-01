@@ -1,7 +1,8 @@
 ---
-layout: default
-categories: de
+layout: multiple_posts
+categories: de events
 i18n_key: index
+limit: 1
 ---
 
 ## Worum geht's?
@@ -10,8 +11,6 @@ Diese Workshops werden von qualifizierten Programmierern geleitet, die sich für
 
 \* = Frauen und alle, die sich als Frauen identifizieren (non-binary und transmenschen inklusive).
 
-Lesen Sie mehr über uns, [hier](../de/about).
+Lesen Sie mehr über uns, [hier](/de/about).
 
 ## Unser nächster Workshop:
-### Rails Anfänger Workshop (6./7. Dezember 2019)
-Details und Bewerbungslink, [hier](en/events/2019/12/07/rails-beginner-workshop/).
