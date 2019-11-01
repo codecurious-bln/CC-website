@@ -4,7 +4,6 @@ title: "Rails Girls Berlin is growing up"
 published: true
 date:   2017-10-25 12:44:05 +0100
 permalink: /railsGirlsBerlinIsGrowingUp/
-permalink_de: /railsGirlsBerlinWirdErwachsener/
 categories: en
 author: "Ferdous"
 i18n_key: RGBgrowingup
