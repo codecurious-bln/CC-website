@@ -34,6 +34,7 @@ plugins:
 header_pages:
   - en/about.markdown
   - en/events.markdown
+  - en/blog.markdown
 
 # same as /:categories/:year/:month/:day/:title/
 permalink: pretty
@@ -47,8 +48,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single_event
-      i18n_key: yolo
+      layout: single_post
 
 # Exclude from processing.
 # The following items will not be processed, by default.

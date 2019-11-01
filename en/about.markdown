@@ -47,7 +47,7 @@ code curious Berlin events are organized by a small group of organisers and a hu
 
 ### Organising Team
 <div>
-    <p style="padding: 0 15px; float: left;" ><img src="../../assets/images/ferdous.jpg" alt="Ferdous" width="200"></p>
+    <p style="padding: 0 15px; float: left;" ><img src="/assets/images/ferdous.jpg" alt="Ferdous" width="200"></p>
     <p> <a href="https://twitter.com/ferbsx"><h4>Ferdous</h4></a></p>
     <p> Bioinformatician, <a href="http://rubymonstas.org">Ruby Monster</a>, loves to travel, code and try new things. </p>
 </div>
@@ -55,25 +55,25 @@ code curious Berlin events are organized by a small group of organisers and a hu
 <!-- <br> -->
 
 <div style="clear: left;">
-    <p style="padding: 0 15px; float: left;"><img src="../../assets/images/kaja.jpg" alt="Kaja" width="200"></p>
+    <p style="padding: 0 15px; float: left;"><img src="/assets/images/kaja.jpg" alt="Kaja" width="200"></p>
     <p> <a href="https://twitter.com/alizenero"><h4>Kaja</h4></a></p>
     <p> Philosopher, soccer player, Ruby coder and feminist. Loves food and her bicycle. </p>
 </div>
 
 <div style="clear: left;">
-    <!-- <p style="padding: 0 15px; float: left;"><img src="../../assets/images/amr.jpg" alt="Amr" width="200"></p> -->
+    <!-- <p style="padding: 0 15px; float: left;"><img src="/assets/images/amr.jpg" alt="Amr" width="200"></p> -->
     <p> <a href="https://twitter.com/amrAbdelwahab"><h4>Amr</h4></a></p>
     <!-- <p> Amr's description goes here. </p> -->
 </div>
 
 <div style="clear: left;">
-    <!-- <p style="padding: 0 15px; float: left;"><img src="../../assets/images/yonatan.jpg" alt="Yonatan" width="200"></p> -->
+    <!-- <p style="padding: 0 15px; float: left;"><img src="/assets/images/yonatan.jpg" alt="Yonatan" width="200"></p> -->
     <p> <a href="https://twitter.com/shushugah"><h4>Yonatan</h4></a></p>
     <!-- <p> Yonatan's description goes here. </p> -->
 </div>
 
 <div style="clear: left;">
-    <!-- <p style="padding: 0 15px; float: left;"><img src="../../assets/images/pascal.jpg" alt="Pascal" width="200"></p> -->
+    <!-- <p style="padding: 0 15px; float: left;"><img src="/assets/images/pascal.jpg" alt="Pascal" width="200"></p> -->
     <p> <a href="https://twitter.com/pascalwengerter"><h4>Pascal</h4></a></p>
     <!-- <p> Pascal's description goes here. </p> -->
 </div>
