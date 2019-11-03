@@ -60,7 +60,7 @@ i18n_key: about
 ```
 
 ## Add a page to header
-Inside each of the page front matters make sure they have a title
+Inside each of the page front matters make sure they have a title or header_text
 ```markdown
 # en/about.markdown
 title: "About"

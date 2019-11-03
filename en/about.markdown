@@ -1,6 +1,7 @@
 ---
 layout: page
 title: What is code curious?
+header_text: About
 i18n_key: about
 ---
 
