@@ -47,15 +47,16 @@ code curious Berlin events are organized by a small group of organisers and a hu
 
 ### Organising Team
 <div>
-    <p style="padding: 0 15px; float: left;" ><img src="/assets/images/ferdous.jpg" alt="Ferdous" width="200"></p>
-    <p> <a href="https://twitter.com/ferbsx"><h4>Ferdous</h4></a></p>
-    <p> Bioinformatician, <a href="http://rubymonstas.org">Ruby Monster</a>, loves to travel, code and try new things. </p>
+  <p style="padding: 0 15px; float: left;" ><img src="/assets/images/ferdous.jpg" alt="Photo of Ferdous outside, she is smiling and wearing red lipstick" width="200"></p>
+  <p> <a href="https://twitter.com/ferbsx"><h4>Ferdous</h4></a></p>
+  <p> Bioinformatician, <a href="http://rubymonstas.org">Ruby Monster</a>, loves to travel, code and try new things.
+  </p>
 </div>
 
 <!-- <br> -->
 
 <div style="clear: left;">
-    <p style="padding: 0 15px; float: left;"><img src="/assets/images/kaja.jpg" alt="Kaja" width="200"></p>
+    <p style="padding: 0 15px; float: left;"><img src="/assets/images/kaja.jpg" alt="Photo of Kaja, a 3/4th angle, wearing headphones with a blue top" width="200"></p>
     <p> <a href="https://twitter.com/alizenero"><h4>Kaja</h4></a></p>
     <p> Philosopher, soccer player, Ruby coder and feminist. Loves food and her bicycle. </p>
 </div>
