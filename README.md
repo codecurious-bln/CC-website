@@ -15,6 +15,10 @@ Go to your terminal and run:
 
 …and then go to http://localhost:4000/
 
+## Testing
+
+Inside `Rakefile` we run a library called HTMLProofer which checks for any broken links, and and can be configured to check for missing alternative text attributes etc.. you can run this locally by running `bundle exec rake test` in your command line.
+
 ## Adding a post
 
 Create a `YYYY-MM-DD-title-to-display.markdown` file inside `{language}/_posts` folder. Have a look at other files for example: `en/_posts/2019-09-21-code-and-cake.markdown`
