@@ -18,28 +18,38 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Code Curious
+title: code curious
 email: contact@codecurious.org
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://codecurious-bln.github.io/CC-website/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: codecurious_bln
 github_username:  codecurious-bln
+instagram_username: code.curious
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 header_pages:
-  - about.markdown
-  - events.markdown
+  - en/about.markdown
+  - en/events.markdown
+  - en/blog.markdown
 
-
+# same as /:categories/:year/:month/:day/:title/
+permalink: pretty
 collections:
-  events:
-    output: true
-    future: true
-    permalink: /events/:name
+  posts:
+future: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: single_post
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

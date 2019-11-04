@@ -1,9 +1,15 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: events_layout
+# ToDo: remove this categories hack in future
+categories: en events
+layout: multiple_posts
+i18n_key: index
+limit: 1
 ---
+## What we do?
+Formerly known as *Rails Girls Berlin*, we organize **free coding workshops for women\*** without prior experience in coding. These workshops are led by skilled programmers who are eager to help newbies and to increase the number of women* in IT. During our workshops, we try to create a cozy space where **questions are welcome** and where there is no pressure nor competition. To accomplish that, we keep the group sizes small and have **one dedicated coach per two or three learners**.
 
-👷🏻‍♀️ This is temporary. Have a look at our [GitHub issues](https://github.com/codecurious-bln/CC-website/issues
-) for ways you can improve this website! 🐿
+\* = Women and everybody who identifies as a woman (including non-binary and trans people).
+
+Read more about us, [here](en/about).
+
+## Upcoming workshops:
