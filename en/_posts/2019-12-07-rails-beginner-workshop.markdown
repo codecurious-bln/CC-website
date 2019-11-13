@@ -20,7 +20,7 @@ Workshop: **07.12.2019, 10:00 - 18:00**
 **ShareNow, Brunnenstraße 19-21, Berlin**
 
 ## Apply:
-The workshop is geared towards women with no coding experience. [**Apply Here**](http://workshops.codecurious.org/events/6/applications/new)
+The workshop is geared towards women* with no coding experience. [**Apply Here**](http://workshops.codecurious.org/events/6/applications/new)
 
 Are a Rails coach? [**Apply here to coach at this workshop**](https://goo.gl/forms/yMyAGKR8MYan17M83).
 

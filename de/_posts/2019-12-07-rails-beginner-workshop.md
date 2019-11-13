@@ -8,7 +8,7 @@ i18n_key: rails_beginner_workshop_2019_12
 ![Foto von dutzenden Frauen mit Laptops, die zusammen um einen großen weißen Tisch herum programmieren.](/assets/images/Dec19-Banner.jpeg)
 
 ### Lerne Programmieren ♥️
-Unser Rails-Beginner-Workshop steht im Zeichen von Ruby on Rails, mit dessen Hilfe du deine erste kleine Web-Anwendung erstellen wirst. Es wird in kleinen Gruppen gearbeitet, die von jeweils einem Coachvon geleitet werden. Du kannst und sollst jederzeit Fragen stellen! Abgerundet wird das Programm durch anfängerfreundliche und unterhaltsame Talks zu verschiedenen Themen rund um das Programmieren.
+Unser Rails-Beginner-Workshop steht im Zeichen von Ruby on Rails, mit dessen Hilfe du deine erste kleine Web-Anwendung erstellen wirst. Es wird in kleinen Gruppen gearbeitet, die von jeweils einem Coach geleitet werden. Du kannst und sollst jederzeit Fragen stellen! Abgerundet wird das Programm durch anfängerfreundliche und unterhaltsame Talks zu verschiedenen Themen rund um das Programmieren.
 
 Ziel unserer Workshops ist, dir den Einstig in die Welt des Programmierens zu erleichtern und den Spaß daran zu wecken. Du musst nicht alles direkt verstehen, lass dich nicht entmutigen. Wir von code curious möchten dir zeigen, dass es gar nicht so schwer ist, loszulegen und dass es eine tolle Community gibt, die dich bei deinen ersten Schritten unterstützt.
 
