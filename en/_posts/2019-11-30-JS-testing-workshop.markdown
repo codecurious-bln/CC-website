@@ -27,7 +27,8 @@ Are a JavaScript coach? [**Apply here to coach at this workshop**](https://forms
 ## Workshop Schedule
 ### Saturday, 30 November - Workshop Day
 - 09:30 - 10:00: **Coffee & Registration**
-- 10:00 – 11:00: **Introduction** to JavaScript testing
+- 10:00 – 10:10: **Welcome Intro** by code curious
+- 10:10 – 11:00: **Introduction** to JavaScript testing
 - 11:00 - 11:15: **Break**
 - 11:15 - 12:00: **Set-up for practical part** in groups
 - 12:00 – 13:00: **Lunch** (It will be provided by bitcrowd)

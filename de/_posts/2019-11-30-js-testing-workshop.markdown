@@ -27,7 +27,8 @@ Bist du ein_e JavaScript Coach_in? [**Melde dich als Coach für den Workshop**](
 ## Workshop-Programm
 ### Samstag, 30. November - Workshop Day
 - 09:30 - 10:00: **Kaffee & Anmeldung**
-- 10:00 – 11:00: **Einführung** in JavaScript testing
+- 10:00 – 10:10: **Willkommens-Intro** von code curious
+- 10:10 – 11:00: **Einführung** in JavaScript testing
 - 11:00 - 11:15: **Pause**
 - 11:15 - 12:00: **Vorbereitung für den praktischen Teil** in Gruppen
 - 12:00 – 13:00: **Mittagessen** (Es wird von bitcrowd bereitgestellt)
