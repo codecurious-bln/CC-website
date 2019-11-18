@@ -5,31 +5,24 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col one-half">
-      <h2 class="footer-heading">{{ site.title | escape }}</h2>
+        <h2 class="footer-heading">{{ site.title | escape }}</h2>
         <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+          {%- if site.email -%}
+          <li>
+            <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+          </li>
+          {%- endif -%}
+          <li>
+            <a href="/de/impressum">Impressum</a>
+          </li>
         </ul>
       </div>
-
       <div class="footer-col one-half">
         <p>{{- site.description | escape -}}</p>
       </div>
-
-      <div class="social-links">
+      <div class="footer-col social-links">
         {%- include social.html -%}
       </div>
-
-    </div>
-    <div class="links">
-      <a href="/de/impressum">Impressum</a>
     </div>
   </div>
-
 </footer>
