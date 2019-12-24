@@ -26,6 +26,7 @@ url: "https://codecurious-bln.github.io/CC-website/" # the base hostname & proto
 twitter_username: codecurious_bln
 github_username:  codecurious-bln
 instagram_username: code.curious
+signup: "http://eepurl.com/gNZOs5"
 
 # Build settings
 theme: minima

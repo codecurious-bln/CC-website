@@ -23,6 +23,10 @@
       <div class="footer-col social-links">
         {%- include social.html -%}
       </div>
+      <div class="footer-col signup-button">
+        {% include button.html url="{{ site.signup }}" %}
+        <a class="signup-button" href="{{ site.signup }}">signup</a>
+      </div>
     </div>
   </div>
 </footer>
