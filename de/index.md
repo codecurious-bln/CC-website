@@ -2,7 +2,7 @@
 layout: multiple_posts
 categories: de events
 i18n_key: index
-limit: 2
+limit: 4
 ---
 
 ## Worum geht's?
