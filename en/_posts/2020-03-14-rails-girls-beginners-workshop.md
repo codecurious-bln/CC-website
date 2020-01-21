@@ -4,7 +4,7 @@ categories: en events
 i18n_key: rails_beginner_workshop_2020_03
 ---
 
-![Photo of dozen women with laptops, coding together around a large white table](/assets/images/Dec19-Banner.jpeg)
+![Photo of dozen women with laptops, coding together around a large white table](/assets/images/squirrel-curious.jpg)
 
 ### Let's dive into Coding ♥️
 code curious wants to give absolute beginners the opportunity and community to learn the technologies needed to build their own website, with a hands-on introduction to a web framework called Ruby on Rails. Attendees will be guided by coaches in building a website using our tutorials.
