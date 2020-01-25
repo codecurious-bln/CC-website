@@ -15,7 +15,7 @@ You know how to code in JavaScript and want to learn testing with JS or improve 
 #### Where: **bitcrowd, Oranienstr 6, 10997 Berlin**
 
 #### Apply:
-The workshop is geared towards women* with coding experience in JavaScript. [**Apply Here**](https://forms.gle/dwyLkQXRsnVHGxnx6)
+The workshop is geared towards women, non-binary and trans people with coding experience in JavaScript. [**Apply Here**](https://forms.gle/dwyLkQXRsnVHGxnx6)
 
 You are a JavaScript coach? [**Apply here to coach at this workshop**](https://forms.gle/grVdR7y7hhZ9GCmu8).
 

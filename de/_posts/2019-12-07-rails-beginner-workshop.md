@@ -20,7 +20,7 @@ Workshop: **07.12.2019, 10:00 - 18:00**
 **ShareNow, Brunnenstraße 19-21, Berlin**
 
 ## Bewerben:
-Der Workshop richtet sich an Frauen* ohne Programmiererfahrung. [**Hier kannst Du dich bewerben!**](http://workshops.codecurious.org/events/6/applications/new)
+Der Workshop richtet sich an Frauen, non-binary und transmenschen ohne Programmiererfahrung. [**Hier kannst Du dich bewerben!**](http://workshops.codecurious.org/events/6/applications/new)
 
 Bist du ein_e Rails Coach_in? [**Melde dich als Coach_in für den Workshop**](https://goo.gl/forms/yMyAGKR8MYan17M83)!
 

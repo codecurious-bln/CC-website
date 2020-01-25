@@ -15,7 +15,7 @@ Möchtest du Testing in JavaScript lernen? Dann ist der JS Testing Workshop der 
 #### Wo: **bitcrowd, Oranienstr 6, 10997 Berlin**
 
 #### Bewerben:
-Der Workshop richtet sich an Frauen* mit JavaScript Erfahrung. [**Hier kannst du dich bewerben!**](https://forms.gle/dwyLkQXRsnVHGxnx6)
+Der Workshop richtet sich an Frauen, non-binary und transmenschen mit JavaScript Erfahrung. [**Hier kannst du dich bewerben!**](https://forms.gle/dwyLkQXRsnVHGxnx6)
 
 Bist du ein_e JavaScript Coach_in? [**Melde dich als Coach für den Workshop**](https://forms.gle/grVdR7y7hhZ9GCmu8)!
 
