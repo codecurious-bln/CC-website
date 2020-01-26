@@ -14,7 +14,7 @@ This following guide can be used as an alternative. You only need to follow one 
 [RailsBridge Installation Guide](http://docs.railsbridge.org/installfest/choose_your_operating_system)
 
 #### Rails Beginner Workshop Tutorial:
-We use this step-by-step tutorial during our Rails Beginner Workshops.\
+We use the following step-by-step tutorial during our Rails Beginner Workshops.\
 [Rails Girls App Tutorial: Build your first App](http://guides.railsgirls.com/app)
 
 #### Cheatsheets:
