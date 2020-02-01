@@ -6,7 +6,9 @@ i18n_key: lena-interview
 categories: en blog
 ---
 
-\[caption id="attachment\_506" align="aligncenter" width="226"\]!![photo of Lena Herrmann, white woman with short blonde hair.](/assets/images/IMG_0876b.jpg "Lena_Herrmann") Lena Herrmann\[/caption\]
+<!-- \[caption id="attachment\_506" align="aligncenter" width="226"\]![](http://railsgirlsberlin.de/wp-content/uploads/2012/08/Lena_Herrmann.jpeg "Lena_Herrmann") Lena Herrmann\[/caption\] -->
+
+![photo of Lena Herrmann, white woman with short blonde hair.](/assets/images/Lena_Herrmann.jpeg)
 
 Lena Herrmann is a woman, a mother, a feminist, a political activist and an agile developer.  She is also a coach at Rails Girls Berlin, and in her free time she is also helping some of the participants of the previous workshop to build their own blogging platform. I’m not sure where she gets her strength from. Must be the samba.
 
@@ -34,6 +36,6 @@ Furthermore, software development is a great profession: varied, challenging, so
 
 And: There are many many people who want to answer all the questions that you have! Not only in Rails Girls, open source people are mostly very helpful in general. You don’t need to chew on one problem for several hours on your own. Learn how to google, but don’t be afraid to ask even if you think it’s a silly question.
 
-Want to know more about Lena? Visit [her site](http://lenaherrmann.net/ "Lena Herrmann") and follow her on [Twitter](https://twitter.com/#!/kilaulena "@Kilaulena").
+Want to know more about Lena? Follow her on [Twitter](https://twitter.com/kilaulena).
 
 Cristina

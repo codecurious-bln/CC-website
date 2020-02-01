@@ -6,9 +6,9 @@ i18n_key: lena-interview
 categories: de blog
 ---
 
-\[caption id="attachment\_506" align="aligncenter" width="226"\]!![photo of Lena Herrmann, white woman with short blonde hair.](/assets/images/IMG_0876b.jpg "Lena_Herrmann") Lena Herrmann\[/caption\]
+![photo of Lena Herrmann, white woman with short blonde hair.](/assets/images/Lena_Herrmann.jpeg)
 
-(Achtung: Dieser Artikel wurde aus dem Englischen übersetzt. Den Originalartikel findet ihr [hier](/2012/05/18/interview-with-lena-herrmann/ "Interview with Lena Hermann"))
+(Achtung: Dieser Artikel wurde aus dem Englischen übersetzt. Den Originalartikel findet ihr [hier](/en/blog/2012/05/18/interview-with-lena-herrmann/ "Interview with Lena Hermann"))
 
 Lena Hermann ist Frau, Mutter, Feministin, politische Aktivistin und eine Agile Developerin. Sie ist außerdem Coach bei den Rails Girls Berlin, und in ihrer Freizeit hilft sie außerdem den Teilnehmern der vorhergehenden Workshops, eine eigene Blogging-Plattform zu bauen. Ich bin mir nicht sicher, wo sie ihre Stärke hernimmt. Es muss wohl der Samba sein.
 
@@ -38,6 +38,6 @@ Des Weiteren ist Softwareentwicklung ein toller Beruf: Er ist vielseitig, heraus
 
 Und: Es gibt viele Leute, die all Deine Fragen beantworten. Ncht nur in Rails Girls. Open Soucre Leute snd meist sehr hilfreich. Du musst nicht stundenlang allein an einem Problem knabbern. Lerne, wie man Google richtig verwendet und scheue nicht davor zurück, zu fragen, selbst wenn Du denkst, es sei eine dumme Frage.
 
-Willst Du mehr über Lena erfahren? Besuche [Lena Herrmann](http://lenaherrmann.net/)s Seite oder folge [Lena auf Twitter](https://twitter.com/#!/kilaulena).
+Willst Du mehr über Lena erfahren? Folge [Lena auf Twitter](https://twitter.com/kilaulena).
 
 Cristina
