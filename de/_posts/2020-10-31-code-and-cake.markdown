@@ -1,7 +1,7 @@
 ---
 tags: intermediate code-cake
 categories: de events
-i18n_key: code_cake_2019_10
+i18n_key: code_cake_2020_10
 ---
 
 ## Lerne noch mehr Programmieren <3

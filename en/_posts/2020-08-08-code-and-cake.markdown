@@ -1,7 +1,7 @@
 ---
 tags: intermediate code-cake
 categories: en events
-i18n_key: code_cake_2019_08
+i18n_key: code_cake_2020_08
 ---
 
 ## Let’s dive deeper into Coding ♥️
