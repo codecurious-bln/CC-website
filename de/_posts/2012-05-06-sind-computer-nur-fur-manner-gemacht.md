@@ -2,7 +2,7 @@
 title: "Interview: Sind Computer nur für Männer gemacht?"
 date: "2012-05-06"
 author: "Ferdous"
-categories: en blog
+categories: de blog
 i18n_key: cristina-Interview
 ---
 
