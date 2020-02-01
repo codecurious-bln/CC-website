@@ -3,6 +3,7 @@ title: "Interview: Are computers for boys?"
 date: "2012-05-06"
 author: "Ferdous"
 categories: en blog
+i18n_key: cristina-Interview
 ---
 Below is an awesome article that [Cristina](http://twitter.com/crissantamarina) wrote about what knitting and coding have in common and how it feels to be a Rails girl:
 
