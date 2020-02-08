@@ -20,7 +20,7 @@ Workshop: **14.03.2020, 10:00 - 18:00**
 **irgendwo in Berlin**
 
 ## Bewerben:
-Der Workshop richtet sich an Frauen* ohne Programmiererfahrung. Die Bewerbung ist noch nicht offen.
+Der Workshop richtet sich an Frauen, non-binary und transmenschen ohne Programmiererfahrung. Die Bewerbung ist noch nicht offen.
 
 Bist du ein_e Rails Coach_in? Die Bewerbung ist noch nicht offen.
 

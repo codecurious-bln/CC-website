@@ -80,6 +80,11 @@ code curious Berlin events are organized by a small group of organisers and a hu
     <!-- <p> Pascal's description goes here. </p> -->
 </div>
 
+<div style="clear: left;">
+    <!-- <p style="padding: 0 15px; float: left;"><img src="/assets/images/ana.jpg" alt="Ana" width="200"></p> -->
+    <p> <a href="https://twitter.com/anaschwendler"><h4>Ana</h4></a></p>
+    <!-- <p> Ana's description goes here. </p> -->
+</div>
 
 ## How can you help?
 You can help us by volunteering your time and coaching at our workshops or joining our organisers team to plan more workshops. We are also constantly looking for companies to sponsor us and host our workshops. Please [contact us](mailto:contact@codecurious.org) if you are interested in helping close the gender gap in IT.

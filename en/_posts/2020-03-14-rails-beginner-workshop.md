@@ -20,7 +20,7 @@ Workshop: **14.03.2020, 10:00 - 18:00**
 **somewhere in Berlin**
 
 ## Apply:
-The workshop is geared towards women* with no coding experience. Applications are not open yet.
+The workshop is geared towards women, non-binary and trans people with no coding experience. Applications are not open yet.
 
 Are a Rails coach? Applications are not open yet.
 
@@ -33,10 +33,10 @@ If you want to stay up to date for the workshop applications, please register fo
 
 ## Workshop Schedule
 
-### Friday, 13 March - Installation Get-together
+### Friday, 13th of March - Installation Get-together
 - **18:30 – 20:30**: Install all programs for the workshop and say hello to other attendees and coaches
 
-### Saturday, 7 December - Workshop Day
+### Saturday, 14th of March - Workshop Day
 - 10:00 - 10:30: **Coffee & Registration**. You will find your group and coach and make yourself comfortable.
 - 10:30 – 11:00: **Welcome Intro** by code curious
 - 11:00 – 12:00: **Introduction** to web application basics
