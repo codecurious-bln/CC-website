@@ -5,6 +5,8 @@ slug: Anfaenger_innen-Workshop
 i18n_key: rails_beginner_workshop_2020_03
 ---
 
+# ⛔️ Achtung! Workshop abgesagt! ⛔️
+
 ![Foto von einem sehr süßen roten Eichhörnchen, das frech aus einem Baumstumpf herausguckt.](/assets/images/squirrel-curious.jpg)
 
 ### Lerne Programmieren ♥️
