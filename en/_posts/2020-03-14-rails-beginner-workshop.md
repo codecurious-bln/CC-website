@@ -4,6 +4,9 @@ categories: en events
 i18n_key: rails_beginner_workshop_2020_03
 ---
 
+# ⛔️ Attention! Workshop canceled! ⛔️
+
+
 ![Photo of a very cute red squirrel looking cheekily out of a tree trunk](/assets/images/squirrel-curious.jpg)
 
 ### Let's dive into Coding ♥️
