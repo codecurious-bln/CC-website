@@ -4,10 +4,13 @@ categories: en events
 layout: multiple_posts
 i18n_key: index
 limit: 2
+youtubeId: 7WlxL0FA5GE
 ---
 
+{% include youtube_player.html id=page.youtubeId %}
+
 # Because of current health risks all workshops are canceled!
-We are also sad that we cannot give any workshops at the moment and we ask you to understand the current risks of spreading COVID-19. 
+We are also sad that we cannot give any workshops at the moment and we ask you to understand the current risks of spreading COVID-19.
 
 ## What can I do?
 First of all keep yourself up to date concerning all news around the virus. And don't forget to **wash your hands** 🖐🏽!
