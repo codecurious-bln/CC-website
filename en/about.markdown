@@ -75,12 +75,6 @@ code curious Berlin events are organized by a small group of organisers and a hu
 </div>
 
 <div style="clear: left;">
-    <!-- <p style="padding: 0 15px; float: left;"><img src="/assets/images/pascal.jpg" alt="Pascal" width="200"></p> -->
-    <p> <a href="https://twitter.com/pascalwengerter"><h4>Pascal</h4></a></p>
-    <!-- <p> Pascal's description goes here. </p> -->
-</div>
-
-<div style="clear: left;">
     <!-- <p style="padding: 0 15px; float: left;"><img src="/assets/images/ana.jpg" alt="Ana" width="200"></p> -->
     <p> <a href="https://twitter.com/anaschwendler"><h4>Ana</h4></a></p>
     <!-- <p> Ana's description goes here. </p> -->
