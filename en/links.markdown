@@ -8,6 +8,7 @@ If you run into any difficulties or questions you can register in our [Slack Cha
 
 ## Rails
 
+* [Our Workshop introductory Slides](/assets/resources/CCRailsBeginnersWorkshopIntro-FerdousNasri.pdf)
 * [Rails Girls Installation Guide](http://guides.railsgirls.com/install)
 * [Railsbridge Installation Guide](http://docs.railsbridge.org/installfest/choose_your_operating_system) – This guide can be used as an alternative. You only need the first Guide
 
