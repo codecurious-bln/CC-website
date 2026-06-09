@@ -4,22 +4,28 @@ layout: default
 
 <div class="home">
   {{ content }}
-  <h1>{{ page.title }}</h1>
-  <ul class="post-list">
+  {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
   {% assign page_categories = page.categories | split: " " %}
   {% assign filtered_posts = site.posts | where_exp:"post", "post.categories == page_categories" %}
+  <ul class="post-list">
   <!-- If no limit is specified it will show all -->
   {% for post in filtered_posts limit: page.limit %}
     <li>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-        <p>{{ post.content | strip_html | truncatewords:20 }}</p>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
       </h3>
+      <p>{{ post.content | strip_html | truncatewords:20 }}</p>
     </li>
   {% endfor %}
   </ul>
+  {%- comment -%} On a limited list (e.g. the homepage) link to the full archive {%- endcomment -%}
+  {% if page.limit and filtered_posts.size > page.limit %}
+    {% assign list_lang = page_categories | first %}
+    {% assign list_kind = page_categories | last %}
+    <a class="see-all-link" href="{{ '/' | append: list_lang | append: '/' | append: list_kind | relative_url }}">
+      {% if list_lang == 'de' %}Alle Workshops ansehen →{% else %}See all past workshops →{% endif %}
+    </a>
+  {% endif %}
 </div>

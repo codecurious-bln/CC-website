@@ -7,11 +7,6 @@
       <div class="footer-col one-half">
         <h2 class="footer-heading">{{ site.title | escape }}</h2>
         <ul class="contact-list">
-          {%- if site.email -%}
-          <li>
-            <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
-          </li>
-          {%- endif -%}
           <li>
             <a href="{{ '/de/impressum' | relative_url }}">Impressum</a>
           </li>
@@ -22,9 +17,6 @@
       </div>
       <div class="footer-col social-links">
         {%- include social.html -%}
-      </div>
-      <div class="footer-col signup-button">
-        <a class="signup-button" href="{{ site.signup }}">sign up for newsletter</a>
       </div>
     </div>
   </div>

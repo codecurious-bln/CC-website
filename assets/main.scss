@@ -1,0 +1,197 @@
+---
+# Custom theme for code curious.
+# The front-matter dashes are required so Jekyll processes this file through Sass
+# and outputs /assets/main.css (this file overrides the one shipped by minima).
+---
+
+// ===========================================================================
+//  Brand variables — set BEFORE importing minima so they override its
+//  `!default` values (palette: warm & friendly / coral).
+// ===========================================================================
+$brand-color:      #e8552a;   // coral accent
+$text-color:       #1f2421;   // warm near-black
+$background-color: #fffdf9;   // warm off-white
+$grey-color:       #6b6b66;
+
+$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$base-font-size:   18px;
+$base-line-height: 1.7;
+$spacing-unit:     32px;
+$content-width:    860px;
+
+@import "minima";
+
+// ===========================================================================
+//  Custom styles layered on top of minima
+// ===========================================================================
+
+$accent-dark: #c8431d;
+
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+// --- Headings --------------------------------------------------------------
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  line-height: 1.25;
+  color: $text-color;
+  margin-top: $spacing-unit * 1.1;
+  margin-bottom: $spacing-unit * 0.45;
+}
+h1 { font-size: 2.4rem; letter-spacing: -0.02em; }
+h2 { font-size: 1.7rem; }
+h3 { font-size: 1.3rem; }
+
+// Subtle accent rule under section headings
+.post-content h2,
+.home h2 {
+  padding-bottom: 6px;
+  border-bottom: 2px solid rgba($brand-color, 0.18);
+}
+
+// --- Links -----------------------------------------------------------------
+a {
+  color: $brand-color;
+  text-decoration: none;
+  transition: color 0.15s ease;
+  &:hover { color: $accent-dark; text-decoration: underline; }
+}
+
+// --- Site header -----------------------------------------------------------
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid rgba($text-color, 0.08);
+  background: #ffffff;
+  box-shadow: 0 1px 0 rgba($text-color, 0.03);
+}
+.site-title,
+.site-title:visited {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: $text-color !important;
+}
+.site-title:hover { color: $brand-color !important; text-decoration: none; }
+.site-nav .page-link {
+  color: $text-color;
+  font-weight: 500;
+  &:hover { color: $brand-color; text-decoration: none; }
+}
+
+// --- Homepage hero ---------------------------------------------------------
+.home > h1:first-of-type {
+  font-size: 2.7rem;
+  margin-top: $spacing-unit;
+}
+
+// --- Responsive video embed (16:9) -----------------------------------------
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba($text-color, 0.12);
+  margin: $spacing-unit 0;
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+}
+
+// --- Images in content -----------------------------------------------------
+.post-content img,
+.home img { border-radius: 12px; }
+
+// --- Post list rendered as cards (homepage, blog & events) -----------------
+.post-list {
+  margin-left: 0;
+  list-style: none;
+  display: grid;
+  gap: $spacing-unit * 0.7;
+
+  > li {
+    background: #ffffff;
+    border: 1px solid rgba($text-color, 0.08);
+    border-radius: 14px;
+    padding: $spacing-unit * 0.8 $spacing-unit;
+    margin-bottom: 0;
+    box-shadow: 0 1px 2px rgba($text-color, 0.04);
+    transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba($text-color, 0.10);
+      border-color: rgba($brand-color, 0.35);
+    }
+  }
+
+  .post-meta {
+    color: $brand-color;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  h3 {
+    margin: 4px 0 0;
+
+    a.post-link { color: $text-color; }
+    a.post-link:hover { color: $brand-color; text-decoration: none; }
+  }
+
+  p {
+    font-weight: 400;
+    font-size: 1rem;
+    color: $grey-color-dark;
+    margin: 8px 0 0;
+  }
+}
+
+// --- "See all" pill button -------------------------------------------------
+.see-all-link {
+  display: inline-block;
+  margin-top: $spacing-unit * 0.6;
+  padding: 11px 24px;
+  background: $brand-color;
+  color: #ffffff !important;
+  font-weight: 600;
+  border-radius: 999px;
+  transition: background 0.15s ease, transform 0.15s ease;
+
+  &:hover {
+    background: $accent-dark;
+    text-decoration: none;
+    transform: translateY(-1px);
+  }
+}
+
+// --- Blockquotes -----------------------------------------------------------
+blockquote {
+  border-left: 4px solid $brand-color;
+  color: $grey-color-dark;
+  font-style: italic;
+  background: rgba($brand-color, 0.04);
+  padding: 10px 18px;
+  border-radius: 0 10px 10px 0;
+}
+
+// --- Footer ----------------------------------------------------------------
+.site-footer {
+  border-top: 3px solid $brand-color;
+  background: #ffffff;
+}
+.footer-heading { font-weight: 700; }
+.site-footer a { color: $brand-color; }
+.social-media-list .svg-icon { fill: $grey-color; }
+
+// --- Breathing room around main content ------------------------------------
+.page-content { padding: ($spacing-unit * 1.2) 0; }

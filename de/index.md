@@ -5,12 +5,8 @@ i18n_key: index
 limit: 2
 ---
 
-# Aufgrund der aktuellen Gesundheits-Risiken sind alle geplanten Veranstaltung abgesagt!
-Wir sind auch traurig, dass wir derzeit keine Workshops veranstalten können, doch wir bitten um euer Verständnis für die aktuellen Risiken einer Verbreitung des COVID-19. 
-
-## Was kann ich tun?
-Zunächst einmal ist es wichtig, sich auf dem Laufenden zu halten, was die Erkenntnisse über das Virus angeht. Und **Hände waschen** nicht vergessen 🖐🏽!
-Außerdem gibt es etlich Angebote, sich **online** mit dem Programmieren zu beschäftigen. Für Anregungen könnt ihr zum Beispiel [hier]({{ '/de/links' | relative_url }}) nachschauen.
+# Aktuell sind keine neuen Workshops geplant
+Im Moment sind keine neuen Workshops geplant. In der Zwischenzeit gibt es aber viele Möglichkeiten, online mit dem **Programmieren** weiterzumachen — Anregungen findet ihr zum Beispiel in unseren [Links]({{ '/de/links' | relative_url }}).
 
 ## Worum geht's?
 Früher bekannt als *Rails Girls Berlin*, organisieren wir **kostenlose Programmier-Workshops für Frauen, non-binary und transmenschen** ohne Vorkenntnisse.
@@ -18,4 +14,4 @@ Diese Workshops werden von qualifizierten Programmierern geleitet, die sich für
 
 Lesen Sie mehr über uns, [hier]({{ '/de/about' | relative_url }}).
 
-## Unser nächster Workshop:
+## Vergangene Workshops
