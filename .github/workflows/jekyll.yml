@@ -20,7 +20,10 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    # Pinned to 22.04: ruby/setup-ruby no longer provides a prebuilt Ruby 2.7
+    # on ubuntu-24.04 (which is what ubuntu-latest now is). 22.04 still has it,
+    # and 2.7 matches the era of the pinned gems below.
+    runs-on: ubuntu-22.04
     steps:
       - name: Checkout
         uses: actions/checkout@v4
