@@ -195,3 +195,157 @@ blockquote {
 
 // --- Breathing room around main content ------------------------------------
 .page-content { padding: ($spacing-unit * 1.2) 0; }
+
+// ===========================================================================
+//  Brand lockup in the header (squirrel mark + name)
+// ===========================================================================
+.site-title {
+  display: inline-flex !important;
+  align-items: center;
+  gap: 10px;
+
+  &,
+  &:visited { color: $text-color; }
+}
+.site-logo {
+  height: 38px;
+  width: auto;
+  display: block;
+}
+.site-name {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  font-size: 1.45rem;
+}
+
+// ===========================================================================
+//  Homepage hero — brand + mission front and centre
+// ===========================================================================
+.hero {
+  text-align: center;
+  padding: ($spacing-unit * 1.2) $spacing-unit ($spacing-unit * 1.4);
+  margin: $spacing-unit 0 ($spacing-unit * 1.4);
+  background: linear-gradient(180deg, rgba($brand-color, 0.07), rgba($brand-color, 0));
+  border-radius: 24px;
+}
+.hero-logo {
+  width: 82%;
+  max-width: 440px;
+  height: auto;
+  margin: 0 auto $spacing-unit;
+  display: block;
+}
+.hero-tagline {
+  font-size: clamp(1.35rem, 3.5vw, 2rem);
+  font-weight: 700;
+  line-height: 1.25;
+  color: $text-color;
+  max-width: 24em;
+  margin: 0 auto 0.5em;
+}
+.hero-sub {
+  font-size: clamp(1rem, 2vw, 1.15rem);
+  color: $grey-color-dark;
+  max-width: 34em;
+  margin: 0 auto $spacing-unit;
+}
+
+// --- Buttons / calls to action ---------------------------------------------
+.cta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  justify-content: center;
+}
+.btn {
+  display: inline-block;
+  padding: 12px 26px;
+  border-radius: 999px;
+  font-weight: 600;
+  border: 2px solid $brand-color;
+  color: $brand-color;
+  background: transparent;
+  transition: background 0.15s ease, transform 0.15s ease, color 0.15s ease;
+
+  &:hover {
+    background: rgba($brand-color, 0.08);
+    color: $brand-color;
+    text-decoration: none;
+    transform: translateY(-1px);
+  }
+}
+.btn-primary {
+  background: $brand-color;
+  color: #ffffff;
+
+  &:hover { background: $accent-dark; border-color: $accent-dark; color: #ffffff; }
+}
+.btn-text {
+  border: none;
+  padding: 12px 4px;
+
+  &:hover { background: transparent; text-decoration: underline; }
+}
+
+// --- Team teaser on the homepage -------------------------------------------
+.team-teaser {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-top: $spacing-unit * 0.5;
+}
+.team-teaser .avatar {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #ffffff;
+  box-shadow: 0 2px 8px rgba($text-color, 0.15);
+  margin: 0;
+}
+
+// --- Secondary "no workshops" notice ---------------------------------------
+.notice {
+  background: rgba($brand-color, 0.07);
+  border: 1px solid rgba($brand-color, 0.22);
+  border-radius: 12px;
+  padding: 16px 20px;
+  margin: $spacing-unit 0;
+  color: $grey-color-dark;
+
+  p { margin: 0; }
+}
+
+// --- Team grid on the About page -------------------------------------------
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: $spacing-unit * 0.8;
+  margin: $spacing-unit 0;
+}
+.team-member {
+  text-align: center;
+
+  img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 14px;
+    margin-bottom: 10px;
+  }
+  h4 { margin: 0 0 4px; font-size: 1.05rem; }
+  p { font-size: 0.92rem; color: $grey-color-dark; margin: 0; }
+}
+
+// --- Fluid headings --------------------------------------------------------
+h1 { font-size: clamp(1.9rem, 5vw, 2.6rem); }
+
+// --- Phone tweaks ----------------------------------------------------------
+@include media-query($on-palm) {
+  .site-name { font-size: 1.2rem; }
+  .site-logo { height: 32px; }
+  .hero { padding: $spacing-unit ($spacing-unit * 0.55); border-radius: 18px; }
+  .cta-row .btn { width: 100%; text-align: center; }
+  .page-content { padding: $spacing-unit 0; }
+}

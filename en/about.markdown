@@ -47,37 +47,26 @@ We welcome people who *identify as women* of *any ethnicity and background above
 code curious Berlin events are organized by a small group of organisers and a huge group of programmers. Everyone is volunteering for this project, because we believe that women are the future of programming. The overwhelmingly positive feedback we are receiving from our attendees and coaches is convincing us to keep this project going.
 
 ### Organising Team
-<div>
-  <p style="padding: 0 15px; float: left;" ><img src="{{ '/assets/images/ferdous.jpg' | relative_url }}" alt="Photo of Ferdous outside, she is smiling and wearing red lipstick" width="200"></p>
-  <p> <a href="https://twitter.com/ferbsx"><h4>Ferdous</h4></a></p>
-  <p> Bioinformatician, <a href="http://rubymonstas.org">Ruby Monster</a>, loves to travel, code and try new things.
-  </p>
-</div>
-
-<!-- <br> -->
-
-<div style="clear: left;">
-    <p style="padding: 0 15px; float: left;"><img src="{{ '/assets/images/kaja.jpg' | relative_url }}" alt="Photo of Kaja, a 3/4th angle, wearing headphones with a blue top" width="200"></p>
-    <p> <a href="https://twitter.com/alizenero"><h4>Kaja</h4></a></p>
-    <p> Philosopher, soccer player, Ruby coder and feminist. Loves food and her bicycle. </p>
-</div>
-
-<div style="clear: left;">
-    <!-- <p style="padding: 0 15px; float: left;"><img src="{{ '/assets/images/amr.jpg' | relative_url }}" alt="Amr" width="200"></p> -->
-    <p> <a href="https://twitter.com/amrAbdelwahab"><h4>Amr</h4></a></p>
-    <!-- <p> Amr's description goes here. </p> -->
-</div>
-
-<div style="clear: left;">
-    <!-- <p style="padding: 0 15px; float: left;"><img src="{{ '/assets/images/yonatan.jpg' | relative_url }}" alt="Yonatan" width="200"></p> -->
-    <p> <a href="https://twitter.com/shushugah"><h4>Yonatan</h4></a></p>
-    <!-- <p> Yonatan's description goes here. </p> -->
-</div>
-
-<div style="clear: left;">
-    <!-- <p style="padding: 0 15px; float: left;"><img src="{{ '/assets/images/ana.jpg' | relative_url }}" alt="Ana" width="200"></p> -->
-    <p> <a href="https://twitter.com/anaschwendler"><h4>Ana</h4></a></p>
-    <!-- <p> Ana's description goes here. </p> -->
+<div class="team-grid">
+  <div class="team-member">
+    <img src="{{ '/assets/images/ferdous.jpg' | relative_url }}" alt="Photo of Ferdous outside, smiling and wearing red lipstick">
+    <h4><a href="https://twitter.com/ferbsx">Ferdous</a></h4>
+    <p>Bioinformatician, <a href="http://rubymonstas.org">Ruby Monster</a>, loves to travel, code and try new things.</p>
+  </div>
+  <div class="team-member">
+    <img src="{{ '/assets/images/kaja.jpg' | relative_url }}" alt="Photo of Kaja at a 3/4 angle, wearing headphones and a blue top">
+    <h4><a href="https://twitter.com/alizenero">Kaja</a></h4>
+    <p>Philosopher, soccer player, Ruby coder and feminist. Loves food and her bicycle.</p>
+  </div>
+  <div class="team-member">
+    <h4><a href="https://twitter.com/amrAbdelwahab">Amr</a></h4>
+  </div>
+  <div class="team-member">
+    <h4><a href="https://twitter.com/shushugah">Yonatan</a></h4>
+  </div>
+  <div class="team-member">
+    <h4><a href="https://twitter.com/anaschwendler">Ana</a></h4>
+  </div>
 </div>
 
 ## How can you help?
