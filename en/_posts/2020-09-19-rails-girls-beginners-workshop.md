@@ -4,7 +4,7 @@ categories: en events
 i18n_key: rails_beginner_workshop_2020_09
 ---
 
-![Photo of a very cute red squirrel looking cheekily out of a tree trunk](/assets/images/squirrel-curious.jpg)
+![Photo of a very cute red squirrel looking cheekily out of a tree trunk]({{ '/assets/images/squirrel-curious.jpg' | relative_url }})
 
 ### Let's dive into Coding ♥️
 code curious wants to give absolute beginners the opportunity and community to learn the technologies needed to build their own website, with a hands-on introduction to a web framework called Ruby on Rails. Attendees will be guided by coaches in building a website using our tutorials.

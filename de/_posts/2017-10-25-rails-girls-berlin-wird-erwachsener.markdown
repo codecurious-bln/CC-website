@@ -5,7 +5,7 @@ i18n_key: RGBgrowingup
 categories: de blog
 ---
 
-![](/assets/images/IMG_0876b.jpg)
+![]({{ '/assets/images/IMG_0876b.jpg' | relative_url }})
 
 Seit dem ersten Workshop im Jahr 2012 gibt es in Berlin die Initiative Rails Girls. Wir haben über dreißig Workshops veranstaltet mit über 1200 Teilnehmenden. Aus unserer Community sind so tolle Projekte entstanden wie [speakerinnen.org](http://speakerinnen.org), [rorganize.it](http://rorganize.it) und [diversitytickets.org](http://diversitytickets.org). Aber auch der [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/), [ClojureBridge Berlin](http://clojurebridge-berlin.org/) und die [Heart of Code](http://heartofcode.org/) sind unter anderem von Menschen aufgebaut, die mit uns (wieder) Spaß am Programmieren fanden.
 

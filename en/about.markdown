@@ -15,7 +15,7 @@ We are trying to change the gender imbalance by giving women the **opportunity a
 
 ## Why did we change our name from Rails Girls Berlin to code curious?
 
-There were a number of reasons, all described in full in [this article](/en/blog/2017/10/25/rails-girls-berlin-is-growing-up/). Briefly, the main reasons for the change were that we wanted to:
+There were a number of reasons, all described in full in [this article]({{ '/en/blog/2017/10/25/rails-girls-berlin-is-growing-up/' | relative_url }}). Briefly, the main reasons for the change were that we wanted to:
 - be open towards other technologies and programming languages,
 - address women, trans and non-binary people instead of girls,
 - highlight a playful aspect of coding.
@@ -48,7 +48,7 @@ code curious Berlin events are organized by a small group of organisers and a hu
 
 ### Organising Team
 <div>
-  <p style="padding: 0 15px; float: left;" ><img src="/assets/images/ferdous.jpg" alt="Photo of Ferdous outside, she is smiling and wearing red lipstick" width="200"></p>
+  <p style="padding: 0 15px; float: left;" ><img src="{{ '/assets/images/ferdous.jpg' | relative_url }}" alt="Photo of Ferdous outside, she is smiling and wearing red lipstick" width="200"></p>
   <p> <a href="https://twitter.com/ferbsx"><h4>Ferdous</h4></a></p>
   <p> Bioinformatician, <a href="http://rubymonstas.org">Ruby Monster</a>, loves to travel, code and try new things.
   </p>
@@ -57,25 +57,25 @@ code curious Berlin events are organized by a small group of organisers and a hu
 <!-- <br> -->
 
 <div style="clear: left;">
-    <p style="padding: 0 15px; float: left;"><img src="/assets/images/kaja.jpg" alt="Photo of Kaja, a 3/4th angle, wearing headphones with a blue top" width="200"></p>
+    <p style="padding: 0 15px; float: left;"><img src="{{ '/assets/images/kaja.jpg' | relative_url }}" alt="Photo of Kaja, a 3/4th angle, wearing headphones with a blue top" width="200"></p>
     <p> <a href="https://twitter.com/alizenero"><h4>Kaja</h4></a></p>
     <p> Philosopher, soccer player, Ruby coder and feminist. Loves food and her bicycle. </p>
 </div>
 
 <div style="clear: left;">
-    <!-- <p style="padding: 0 15px; float: left;"><img src="/assets/images/amr.jpg" alt="Amr" width="200"></p> -->
+    <!-- <p style="padding: 0 15px; float: left;"><img src="{{ '/assets/images/amr.jpg' | relative_url }}" alt="Amr" width="200"></p> -->
     <p> <a href="https://twitter.com/amrAbdelwahab"><h4>Amr</h4></a></p>
     <!-- <p> Amr's description goes here. </p> -->
 </div>
 
 <div style="clear: left;">
-    <!-- <p style="padding: 0 15px; float: left;"><img src="/assets/images/yonatan.jpg" alt="Yonatan" width="200"></p> -->
+    <!-- <p style="padding: 0 15px; float: left;"><img src="{{ '/assets/images/yonatan.jpg' | relative_url }}" alt="Yonatan" width="200"></p> -->
     <p> <a href="https://twitter.com/shushugah"><h4>Yonatan</h4></a></p>
     <!-- <p> Yonatan's description goes here. </p> -->
 </div>
 
 <div style="clear: left;">
-    <!-- <p style="padding: 0 15px; float: left;"><img src="/assets/images/ana.jpg" alt="Ana" width="200"></p> -->
+    <!-- <p style="padding: 0 15px; float: left;"><img src="{{ '/assets/images/ana.jpg' | relative_url }}" alt="Ana" width="200"></p> -->
     <p> <a href="https://twitter.com/anaschwendler"><h4>Ana</h4></a></p>
     <!-- <p> Ana's description goes here. </p> -->
 </div>

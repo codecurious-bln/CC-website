@@ -14,7 +14,7 @@
         {% assign post_language=  post.dir | replace: '/' | slice: 0,2 | default: "en" %}
       {% endif %}
       {% if page_language != post_language %}
-        <a title="{{ site.data.translation['viewIn'][post_language]}} {{ site.data.translations.languages[post_language].label }}" class="{{post_language}} page-link" href="{{ post.url }}">🌎 {{ site.data.translation['viewIn'][post_language]}}</a>
+        <a title="{{ site.data.translation['viewIn'][post_language]}} {{ site.data.translations.languages[post_language].label }}" class="{{post_language}} page-link" href="{{ post.url | relative_url }}">🌎 {{ site.data.translation['viewIn'][post_language]}}</a>
       {% endif %}
     {% endfor %}
   {% endif %}

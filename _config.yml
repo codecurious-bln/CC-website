@@ -21,8 +21,12 @@
 title: code curious
 email: contact@codecurious.org
 description: ""
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://codecurious-bln.github.io/CC-website/" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl is the subpath the site is served from. It is left empty so local
+# development (`bundle exec jekyll serve`) works at http://localhost:4000/.
+# For production on GitHub Pages the build workflow injects the correct value
+# (`/CC-website`) via `--baseurl`, so all links must use the `relative_url` filter.
+baseurl: ""
+url: "https://codecurious-bln.github.io" # the base hostname & protocol for your site
 twitter_username: codecurious_bln
 github_username:  codecurious-bln
 instagram_username: code.curious

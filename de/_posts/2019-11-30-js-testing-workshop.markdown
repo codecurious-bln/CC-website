@@ -5,7 +5,7 @@ i18n_key: js_testing_workshop_2019_11
 title: JS Testing Workshop
 ---
 
-![Foto von einem Laptop mit JavaScript Code auf dem Bildschirm neben einem Stück Kuchen](/assets/images/JStesting-Nov19.jpg)
+![Foto von einem Laptop mit JavaScript Code auf dem Bildschirm neben einem Stück Kuchen]({{ '/assets/images/JStesting-Nov19.jpg' | relative_url }})
 
 ## Lerne noch mehr Programmieren ♥️
 

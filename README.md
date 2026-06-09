@@ -2,6 +2,8 @@
 
 This is a community project to build the [code curious website](https://codecurious-bln.github.io/CC-website/). It is using [Jekyll](https://jekyllrb.com).
 
+The site is hosted on **GitHub Pages** at <https://codecurious-bln.github.io/CC-website/>. Every push to `master` is built and deployed automatically by the [GitHub Actions workflow](.github/workflows/jekyll.yml) (the repo's *Settings → Pages → Build and deployment → Source* must be set to **GitHub Actions**).
+
 ## Installation
 
 Go to your terminal and run:

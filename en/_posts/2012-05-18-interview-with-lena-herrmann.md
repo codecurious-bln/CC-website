@@ -8,7 +8,7 @@ categories: en blog
 
 <!-- \[caption id="attachment\_506" align="aligncenter" width="226"\]![](http://railsgirlsberlin.de/wp-content/uploads/2012/08/Lena_Herrmann.jpeg "Lena_Herrmann") Lena Herrmann\[/caption\] -->
 
-![photo of Lena Herrmann, white woman with short blonde hair.](/assets/images/Lena_Herrmann.jpeg)
+![photo of Lena Herrmann, white woman with short blonde hair.]({{ '/assets/images/Lena_Herrmann.jpeg' | relative_url }})
 
 Lena Herrmann is a woman, a mother, a feminist, a political activist and an agile developer.  She is also a coach at Rails Girls Berlin, and in her free time she is also helping some of the participants of the previous workshop to build their own blogging platform. I’m not sure where she gets her strength from. Must be the samba.
 

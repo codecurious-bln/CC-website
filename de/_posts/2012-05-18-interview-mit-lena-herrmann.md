@@ -6,9 +6,9 @@ i18n_key: lena-interview
 categories: de blog
 ---
 
-![photo of Lena Herrmann, white woman with short blonde hair.](/assets/images/Lena_Herrmann.jpeg)
+![photo of Lena Herrmann, white woman with short blonde hair.]({{ '/assets/images/Lena_Herrmann.jpeg' | relative_url }})
 
-(Achtung: Dieser Artikel wurde aus dem Englischen übersetzt. Den Originalartikel findet ihr [hier](/en/blog/2012/05/18/interview-with-lena-herrmann/ "Interview with Lena Hermann"))
+(Achtung: Dieser Artikel wurde aus dem Englischen übersetzt. Den Originalartikel findet ihr [hier]({{ '/en/blog/2012/05/18/interview-with-lena-herrmann/' | relative_url }} "Interview with Lena Hermann"))
 
 Lena Hermann ist Frau, Mutter, Feministin, politische Aktivistin und eine Agile Developerin. Sie ist außerdem Coach bei den Rails Girls Berlin, und in ihrer Freizeit hilft sie außerdem den Teilnehmern der vorhergehenden Workshops, eine eigene Blogging-Plattform zu bauen. Ich bin mir nicht sicher, wo sie ihre Stärke hernimmt. Es muss wohl der Samba sein.
 

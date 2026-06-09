@@ -1,0 +1,63 @@
+name: Deploy Jekyll site to GitHub Pages
+
+on:
+  # Build & deploy on every push to the default branch
+  push:
+    branches: ["master"]
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+
+# Permissions required for deploying to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment; don't cancel an in-progress production deploy
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          # 2.7 matches the pinned Jekyll 4.0.0 / sassc / nokogiri stack in Gemfile.lock
+          ruby-version: '2.7'
+          bundler-cache: true # runs `bundle install` and caches gems
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+        with:
+          # Enable Pages with "GitHub Actions" as the source automatically on the
+          # first run, so no manual Settings → Pages change is needed. If org
+          # policy blocks this, enable it manually (see README) and re-run.
+          enablement: true
+
+      - name: Build with Jekyll
+        # `base_path` is auto-detected from the repo (e.g. /CC-website) so every
+        # `relative_url` link resolves correctly under the project-page subpath.
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

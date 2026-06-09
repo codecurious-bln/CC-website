@@ -2,10 +2,10 @@
 tags: beginner rails_beginner_workshop
 categories: de events
 slug: Anfaenger_innen-Workshop
-i18n_key: rails_beginner_workshop_2020_03
+i18n_key: rails_beginner_workshop_2020_06
 ---
 
-![Foto von einem sehr süßen roten Eichhörnchen, das frech aus einem Baumstumpf herausguckt.](/assets/images/squirrel-curious.jpg)
+![Foto von einem sehr süßen roten Eichhörnchen, das frech aus einem Baumstumpf herausguckt.]({{ '/assets/images/squirrel-curious.jpg' | relative_url }})
 
 ### Lerne Programmieren ♥️
 Unser Rails-Beginner-Workshop steht im Zeichen von Ruby on Rails, mit dessen Hilfe du deine erste kleine Web-Anwendung erstellen wirst. Es wird in kleinen Gruppen gearbeitet, die von jeweils einem Coach geleitet werden. Du kannst und sollst jederzeit Fragen stellen! Abgerundet wird das Programm durch anfängerfreundliche und unterhaltsame Talks zu verschiedenen Themen rund um das Programmieren.
